@@ -4,9 +4,6 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
 title = "Languages in FLOSS"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = "CC-BY SA 3.0"
-
 
 theme = "minimo"
 
@@ -21,8 +18,8 @@ pygmentsCodefences = true
 enableEmoji = true
 
 [params.info]
-description = "Minimalist theme for Hugo"
-title404 = "Nothing's here!"
+description = "Natural languages support"
+title404 = "We can't find this page, wrong URL?"
 
 [params.assets]
 favicon = "favicon.ico"
@@ -31,16 +28,16 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
-prefix = "qsd"
-holder = "MunifTanjim"
+prefix = "CC-BY SA 3.0"
+holder = "Languages in FLOSS"
 startYear = "2020"
 suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
-archiveDateFormat = "Jan 02"
+dateFormat = "2006-01-02"
+listDateFormat = "2006-01-02"
+archiveDateFormat = "01-02"
 hideEntryNavigation = ["page"] # boolean / array of sections
 hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = false
@@ -75,12 +72,6 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/languages-in-floss/site"
-
 [blackfriday]
 hrefTargetBlank = true
 
@@ -103,4 +94,6 @@ lang = "ar"
 contentDir = "translations/ar"
 languageName = "العربية"
 weight = 1
-languagedirection = "rtl"
+
+[languages.ar.params.settings]
+rtl = true
