@@ -94,6 +94,4 @@ lang = "ar"
 contentDir = "translations/ar"
 languageName = "العربية"
 weight = 1
-
-[languages.ar.params.settings]
-rtl = true
+LanguageDirection = "rtl"
