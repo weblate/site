@@ -15,7 +15,7 @@ enableRobotsTXT = true # generate robots.txt
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
-enableEmoji = true
+enableEmoji = false
 
 [params.info]
 description = "Natural languages support"
@@ -23,8 +23,8 @@ title404 = "We can't find this page, wrong URL?"
 
 [params.assets]
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+#customCSS = ["css/custom.css"]
+#customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -45,7 +45,6 @@ showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
 hideMainMenu = false
-rtl = false
 
 [params.sidebar]
 enable = true
@@ -59,6 +58,10 @@ footer = ["social_menu"]
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
+
+[params.social]
+email = "contact@languages-in-floss.eu"
+github = "languages-in-floss"
 
 [params.search]
 client = "fuse"

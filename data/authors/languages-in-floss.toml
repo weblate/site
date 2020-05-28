@@ -1,0 +1,12 @@
+id = "languages-in-floss"
+
+[email]
+username = "contact"
+host = "languages-in-floss.eu"
+
+[name]
+display = "Collaborative"
+
+[social]
+email = "contact@languages-in-floss.eu"
+github = "languages-in-floss"
