@@ -94,6 +94,13 @@ weight = 1
 
 [languages.oc]
 lang = "oc"
-contentDir = "content/oc"
+contentDir = "translations/oc"
 languageName = "Occitan"
 weight = 1
+
+[languages.ar]
+lang = "ar"
+contentDir = "translations/ar"
+languageName = "العربية"
+weight = 1
+languagedirection = "rtl"
