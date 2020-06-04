@@ -1,0 +1,50 @@
+<section id='comments' class='comments'>
+  <div class='container sep-before'>
+{{ $urlized := .Page.Permalink | md5 }}
+{{ if index .Site.Data.webmentions $urlized }}
+  {{ $likes := index (index .Site.Data.webmentions $urlized) "like-of" }}
+  {{ $replys := index (index .Site.Data.webmentions $urlized) "in-reply-to" }}
+  {{ $reposts := index (index .Site.Data.webmentions $urlized) "repost-of"}}
+  {{ $mentions := index (index .Site.Data.webmentions $urlized) "mention-of"}}
+    <div class='comments-area'>
+      {{ with $likes }}
+        <h4>Likes</h4>
+        {{ range $i, $like := $likes }}
+          <a href="{{$like.url}}"><img src="{{ $like.author.photo}}" alt="{{ $like.author.name }}" class="profile photo"></a>
+        {{end}}
+      {{end}}
+
+      {{ with $reposts }}
+        <h4>Reposts</h4>
+        {{ range $i, $repost := $reposts }}
+          <a href="{{$repost.url}}"><img src="{{ $repost.author.photo}}" alt="{{ $repost.author.name }}" class="profile photo"></a>
+        {{end}}
+      {{end}}
+
+      {{ with $replys }}
+        <h4>Comments and Replies</h4>
+        {{ range $i, $reply := $replys }}
+          <a href="{{$reply.url}}"><img src="{{ $reply.author.photo}}" alt="{{ $reply.author.name }}" class="profile photo"></a>
+        {{end}}
+      {{end}}
+
+      {{ with $mentions }}
+        <h4>Mentions</h4>
+        {{ range $i, $mention := $mentions }}
+          <a href="{{$mention.url}}">
+              <img src="{{ $mention.author.photo}}" alt="{{ $mention.author.name }}" class="profile photo"  width="35" height="35">{{$mention.content.text}}</a>
+        {{end}}
+      {{end}}
+    </div>
+  </div>
+{{end}}
+  <form id="webmention-form" class="inline-form content" method="post" action="https://webmention.io/languages-in-floss.eu_fr_/webmention">
+    <input type="hidden" name="target" value="{{- .Page.Permalink -}}">
+    <label for="reply-url">Have you written a <a href="https://indieweb.org/responses">response</a> to this? Let me know the URL:</label>
+    <div class="inline-form__inputs">
+      <input type="text" id="reply-url" name="source" placeholder="https://example.com/my-post">
+      <button type="submit" id="webmention-submit">Send Webmention</button>
+    </div>
+    <p class="form-alert is-hidden"></p>
+  </form>
+</section>

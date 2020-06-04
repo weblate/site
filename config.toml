@@ -1,4 +1,4 @@
-baseURL = "https://languages-in-floss.eu/site/"
+baseURL = "https://languages-in-floss.eu"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
@@ -42,7 +42,7 @@ hideEntryNavigation = ["page"] # boolean / array of sections
 hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = false
 showLastmod = true
-taxonomyCloudShuffle = true
+taxonomyCloudShuffle = false
 accentColor = "#ffcd00"
 hideMainMenu = false
 
@@ -52,16 +52,20 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","languages","sidebar_menu","taxonomy_cloud", "search"]
 footer = ["social_menu"]
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
 
+[params.comments]
+enable = true
+
 [params.social]
 email = "contact@languages-in-floss.eu"
 github = "languages-in-floss"
+mastodon = "https://mamot.fr/@languages_in_floss"
 
 [params.search]
 client = "fuse"
