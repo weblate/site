@@ -7,7 +7,7 @@ import os
 import pprint
 import urllib.request
 
-URL = "https://webmention.io/api/mentions.jf2?token=UK_X-MlZDHSDueSEw2UWXQ"
+URL = "https://webmention.io/api/mentions.jf2?token=OPJWObIj63YthqKUx_g_-w"
 DATAFOLDER = "./data/webmentions/"
 DEST = "prod" # set to localhost for tests
 JSON_FILE = DATAFOLDER + "/mentions.json"
