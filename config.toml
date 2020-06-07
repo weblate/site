@@ -3,7 +3,7 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
-title = "Languages in FLOSS"
+title = "Langues et logiciel libre"
 
 theme = "minimo"
 
@@ -18,7 +18,7 @@ pygmentsCodefences = true
 enableEmoji = false
 
 [params.info]
-description = "Natural languages support"
+description = "Partages et aventures"
 title404 = "We can't find this page, wrong URL?"
 
 [params.assets]
@@ -94,11 +94,19 @@ weight = 1
 lang = "oc"
 contentDir = "translations/oc"
 languageName = "Occitan"
+title = "Langues et logiciel libre"
 weight = 1
+
+[languages.oc.params.info]
+description = "Partages et aventures"
 
 [languages.ar]
 lang = "ar"
 contentDir = "translations/ar"
 languageName = "العربية"
+title = "Langues et logiciel libre"
 weight = 1
 LanguageDirection = "rtl"
+
+[languages.ar.params.info]
+description = "Partages et aventures"
