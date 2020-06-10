@@ -6,6 +6,18 @@ function clean_tmp() {
   [ -n "$OLD" ] && rm -Rf "$OLD"
 }
 
+token=$(cat token)
+
+username=$(git config user.name)
+email=$(git config user.email)
+
+if [ -z "$username" ] || [ -z "$email" ] ; then
+    echo "git config"
+    git config --global user.email "contact@languages-in-floss.eu"
+    git config --global user.name "♪ I'm a bot, bot, bot ♪"
+    git config --global push.default simple
+fi
+
 trap clean_tmp exit
 
 echo "Get Hugo 0.69.0"
@@ -17,9 +29,21 @@ tar -xf hugo_0.69.0_Linux-64bit.tar.gz
 echo "Clone languages-in-floss/site"
 git clone --quiet --recurse-submodules https://github.com/languages-in-floss/site website
 
-echo "Run get-mentions.py"
 cd website
+git remote set-url origin https://jibec:token@github.com/languages-in-floss/site.git
+
+echo "Run get-mentions.py"
 python3 get-mentions.py
+
+echo "Update pot files"
+
+./make-pot.sh
+
+echo "Update translated content"
+./make-translated-content.sh
+
+echo "Run hugo"
 ../hugo
 
-sudo rsync -az --chown=webapp2:webapp2 --delete public/ /var/www/my_webapp__2/www/
+echo "copy rsyn files"
+sudo rsync --quiet -az --chown=webapp2:webapp2 --delete public/ /var/www/my_webapp__2/www/

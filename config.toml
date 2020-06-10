@@ -3,7 +3,7 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
-title = "Langues et logiciel libre"
+title = "Langues et logiciels libres"
 
 theme = "minimo"
 
@@ -92,9 +92,9 @@ weight = 1
 
 [languages.oc]
 lang = "oc"
-contentDir = "translations/oc"
+contentDir = "content-translated/oc"
 languageName = "Occitan"
-title = "Langues et logiciel libre"
+title = "Langues et logiciels libres"
 weight = 1
 
 [languages.oc.params.info]
@@ -102,9 +102,9 @@ description = "Partages et aventures"
 
 [languages.ar]
 lang = "ar"
-contentDir = "translations/ar"
+contentDir = "content-translated/ar"
 languageName = "العربية"
-title = "Langues et logiciel libre"
+title = "لغات وبرمجيات حرة"
 weight = 1
 LanguageDirection = "rtl"
 
