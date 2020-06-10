@@ -1,4 +1,5 @@
 #!/bin/bash
+
 OLD=$(mktemp -d -t languages_in_floss_XXXX)
 cd $OLD
 
@@ -6,7 +7,7 @@ function clean_tmp() {
   [ -n "$OLD" ] && rm -Rf "$OLD"
 }
 
-token=$(cat token)
+token=$(cat /var/www/my_webapp__2/token)
 
 username=$(git config user.name)
 email=$(git config user.email)
@@ -30,7 +31,7 @@ echo "Clone languages-in-floss/site"
 git clone --quiet --recurse-submodules https://github.com/languages-in-floss/site website
 
 cd website
-git remote set-url origin https://jibec:token@github.com/languages-in-floss/site.git
+git remote set-url origin https://jibec:$token@github.com/languages-in-floss/site.git
 
 echo "Run get-mentions.py"
 python3 get-mentions.py
@@ -41,6 +42,10 @@ echo "Update pot files"
 
 echo "Update translated content"
 ./make-translated-content.sh
+
+git add .
+git commit -m "l10n automatic refresh"
+git push
 
 echo "Run hugo"
 ../hugo
