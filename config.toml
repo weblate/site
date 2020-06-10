@@ -94,11 +94,11 @@ weight = 1
 lang = "oc"
 contentDir = "content-translated/oc"
 languageName = "Occitan"
-title = "Langues et logiciels libres"
+title = "Lengas e logicials liures"
 weight = 1
 
 [languages.oc.params.info]
-description = "Partages et aventures"
+description = "partatge e aventuras"
 
 [languages.ar]
 lang = "ar"
@@ -109,4 +109,4 @@ weight = 1
 LanguageDirection = "rtl"
 
 [languages.ar.params.info]
-description = "Partages et aventures"
+description = "مشاركات و مغامرات"
