@@ -1,3 +1,6 @@
+# translated content already is in po files
+content-translated/
+# already stored by webmentions.io
 data/webmentions/
+# this contain the published html files
 public/
-token
