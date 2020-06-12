@@ -1,0 +1,13 @@
+id = "jibec"
+
+[email]
+username = "jean-baptiste"
+host = "holcroft.fr"
+
+[name]
+display = "Jean-Baptiste Holcroft"
+
+[social]
+email = "jean-baptiste@holcroft.fr"
+github = "jibec"
+mastodon = "https://mamot.fr/@jibec"

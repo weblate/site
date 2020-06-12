@@ -7,31 +7,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-10 13:19+0200\n"
+"POT-Creation-Date: 2020-06-12 16:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:1
+#: ./content/fr/authors/quenti/_index.md:1
 #, no-wrap
 msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:4
+#: ./content/fr/authors/quenti/_index.md:3
 #, no-wrap
 msgid ""
-"title: À propos\n"
-"menu: main\n"
+"draft: false\n"
 "---\n"
-msgstr ""
-
-#. type: Plain text
-#: ./content/fr/page/about.md:6
-msgid "À propos de nous..."
 msgstr ""

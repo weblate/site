@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-10 13:19+0200\n"
+"POT-Creation-Date: 2020-06-12 16:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,32 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-05-27-test.md:1
+#: ./content/fr/authors/butterflyoffire/_index.md:1
 #, no-wrap
 msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-05-27-test.md:7
-msgid ""
-"title: Mon test date: 2020-05-27 draft: false authors: "
-"[\"languages-in-floss\"] tags:"
-msgstr ""
-
-#. type: Plain text
-#: ./content/fr/posts/2020-05-27-test.md:8
-msgid "text"
-msgstr ""
-
-#. type: Plain text
-#: ./content/fr/posts/2020-05-27-test.md:9
+#: ./content/fr/authors/butterflyoffire/_index.md:3
 #, no-wrap
 msgid ""
-"test\n"
+"draft: false\n"
 "---\n"
-msgstr ""
-
-#. type: Plain text
-#: ./content/fr/posts/2020-05-27-test.md:11
-msgid "Un texte"
 msgstr ""
