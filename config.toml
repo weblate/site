@@ -77,7 +77,8 @@ series = "series"
 tag = "tags"
 
 [permalinks]
-page = "/:slug/"
+page = "/:title/"
+posts = "/:year/:month/:title/"
 
 [blackfriday]
 hrefTargetBlank = true
