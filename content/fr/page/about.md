@@ -1,6 +1,7 @@
 ---
 title: À propos
 menu: main
+license: CC-BY SA 4.0
 ---
 
 Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "/authors/jibec" >}}), [Quenti]({{< relref "/authors/quenti" >}}) et [ButterFlyOfFire]({{< relref "/authors/butterflyoffire" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.
