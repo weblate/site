@@ -28,7 +28,7 @@ favicon = "favicon.ico"
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
-prefix = "CC-BY SA 3.0"
+prefix = "CC-BY SA 4.0"
 holder = "Languages in FLOSS"
 startYear = "2020"
 suffix = ""
