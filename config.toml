@@ -65,7 +65,7 @@ enable = true
 [params.social]
 email = "contact@languages-in-floss.eu"
 github = "languages-in-floss"
-mastodon = "https://mamot.fr/@languages_in_floss"
+mastodon = "https://mastodon.languages-in-floss.eu/@contact"
 
 [params.search]
 client = "fuse"
