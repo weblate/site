@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 17:01+0200\n"
+"POT-Creation-Date: 2020-06-12 16:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,23 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: ./content/fr/search.md:1
 #, no-wrap
 msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:5
 msgid "type: page layout: search outputs:"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:6
 msgid "html"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:7
 #, no-wrap
 msgid ""
 "json\n"
@@ -41,6 +37,5 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:9
 msgid "Vos résultats de recherche"
 msgstr ""

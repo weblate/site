@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 17:01+0200\n"
+"POT-Creation-Date: 2020-06-12 16:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:1
 #, no-wrap
 msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:4
 #, no-wrap
 msgid ""
 "title: Contribuer\n"
@@ -32,35 +30,30 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:7
 msgid "Pour contribuer, vous pouvez :"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:9
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:10
 msgid ""
-"traduire les articles dans votre langue sur : "
-"https://hosted.weblate.org/languages-in-floss/"
+"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
+"languages-in-floss/"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:11
 msgid ""
-"soumettre un article (en français) sur Github : "
-"https://github.com/languages-in-floss/site"
+"soumettre un article (en français) sur Github : https://github.com/languages-"
+"in-floss/site"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:12
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
