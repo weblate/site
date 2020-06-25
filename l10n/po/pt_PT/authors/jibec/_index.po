@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-06-12 16:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-06-25 13:40+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
+"projects/languages-in-floss/authorsjibec_index/pt_PT/>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:1
 #, no-wrap
 msgid "---\n"
-msgstr ""
+msgstr "---\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:3
@@ -28,11 +31,13 @@ msgid ""
 "draft: false\n"
 "---\n"
 msgstr ""
+"rascunho: falso\n"
+"---\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:6
 msgid "Mes contributions :"
-msgstr ""
+msgstr "As minhas contribuições :"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:8
@@ -41,6 +46,9 @@ msgid ""
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
 "migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
+"Migração da distribuição Linux Fedora para a plataforma de tradução "
+"[Weblate](https://translate.fedoraproject.org/stats/) ([plano de "
+"migração](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:9
@@ -49,6 +57,8 @@ msgid ""
 "documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
 "de la distribution Linux Fedora"
 msgstr ""
+"[internacionalização da documentação](https://fedoraproject.org/wiki/User:"
+"Jibecfed/fedoradoc-antora-localization) da distribuição do Linux Fedora"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:10
@@ -66,7 +76,7 @@ msgstr ""
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:13
 msgid "Autre éléments :"
-msgstr ""
+msgstr "Outros elementos :"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:14

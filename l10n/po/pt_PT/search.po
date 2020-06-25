@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-06-12 16:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-06-25 13:40+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
+"projects/languages-in-floss/search/pt_PT/>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
 #: ./content/fr/search.md:1
 #, no-wrap
 msgid "---\n"
-msgstr ""
+msgstr "---\n"
 
 #. type: Plain text
 #: ./content/fr/search.md:5
@@ -29,7 +32,7 @@ msgstr ""
 #. type: Plain text
 #: ./content/fr/search.md:6
 msgid "html"
-msgstr ""
+msgstr "html"
 
 #. type: Plain text
 #: ./content/fr/search.md:7
@@ -38,8 +41,10 @@ msgid ""
 "json\n"
 "---\n"
 msgstr ""
+"json\n"
+"---\n"
 
 #. type: Plain text
 #: ./content/fr/search.md:9
 msgid "Vos résultats de recherche"
-msgstr ""
+msgstr "Os seus resultados da procura"

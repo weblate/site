@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-06-12 16:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-06-25 13:40+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
+"projects/languages-in-floss/posts2020-06-12-80-percent/pt_PT/>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "---\n"
-msgstr ""
+msgstr "---\n"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:7
@@ -27,6 +30,8 @@ msgid ""
 "title: Quand 80% de l’humanité ne parle pas anglais date: 2020-06-12 draft: "
 "false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] tags:"
 msgstr ""
+"título: quando 80% da humanidade não fala inglês data: 12-06-2020 rascunho: "
+"falso autores: [\"jibec\", \"butterflyoffire\", \"quenti\"] etiquetas:"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:8
@@ -36,12 +41,12 @@ msgstr ""
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:10
 msgid "partage categories:"
-msgstr ""
+msgstr "partilhar categorias:"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:11
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalização"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:12
@@ -50,6 +55,8 @@ msgid ""
 "Internationalisation\n"
 "---\n"
 msgstr ""
+"Internacionalização\n"
+"---\n"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:16
