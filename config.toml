@@ -111,3 +111,9 @@ LanguageDirection = "rtl"
 
 [languages.ar.params.info]
 description = "مشاركات و مغامرات"
+
+[languages.pt_PT]
+lang = "pt_PT"
+contentDir = "content-translated/pt_PT"
+languageName = "Português"
+weight = 1
