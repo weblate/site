@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 16:59+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,24 +23,22 @@ msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:5
-msgid "type: page layout: search outputs:"
-msgstr ""
-
-#. type: Plain text
 #: ./content/fr/search.md:6
-msgid "html"
+msgid "license: CC-BY SA 4.0 type: page layout: search outputs:"
 msgstr ""
 
 #. type: Plain text
 #: ./content/fr/search.md:7
+msgid "html"
+msgstr ""
+
+#. type: Title -
+#: ./content/fr/search.md:8
 #, no-wrap
-msgid ""
-"json\n"
-"---\n"
+msgid "json"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:9
+#: ./content/fr/search.md:10
 msgid "Vos résultats de recherche"
 msgstr ""

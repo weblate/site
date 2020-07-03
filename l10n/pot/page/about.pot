@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 16:59+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,16 +23,17 @@ msgid "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:4
+#: ./content/fr/page/about.md:5
 #, no-wrap
 msgid ""
 "title: À propos\n"
 "menu: main\n"
+"license: CC-BY SA 4.0\n"
 "---\n"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:8
+#: ./content/fr/page/about.md:9
 msgid ""
 "Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "
 "\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et "
@@ -43,21 +44,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:10
+#: ./content/fr/page/about.md:11
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:12
+#: ./content/fr/page/about.md:13
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:13
+#: ./content/fr/page/about.md:14
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
@@ -65,7 +66,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:15
+#: ./content/fr/page/about.md:16
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
@@ -73,7 +74,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:17
+#: ./content/fr/page/about.md:18
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "
@@ -82,7 +83,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/page/about.md:18
+#: ./content/fr/page/about.md:19
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
