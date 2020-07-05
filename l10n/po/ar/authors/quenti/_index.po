@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 17:01+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -20,16 +20,18 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
-#: ./content/fr/authors/quenti/_index.md:1
 #, no-wrap
 msgid "---\n"
 msgstr "---\n"
 
 #. type: Plain text
-#: ./content/fr/authors/quenti/_index.md:3
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "draft: false\n"
+#| "---\n"
 msgid ""
 "draft: false\n"
+"license: CC-BY SA 4.0\n"
 "---\n"
 msgstr ""
 "draft: false\n"
