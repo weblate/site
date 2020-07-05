@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-06-25 13:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
@@ -18,29 +18,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: draft
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "draft: false\n"
-#| "---\n"
-msgid ""
-"draft: false\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
+msgid "false"
 msgstr ""
-"rascunho: falso\n"
-"---\n"
+
+#. type: YAML Front Matter: license
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr ""
 
 #. type: Plain text
 msgid "Mes contributions :"
 msgstr "As minhas contribuições :"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "migration de la distribution Linux Fedora vers la plateforme de traduction "
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de migration]"
@@ -50,7 +42,7 @@ msgstr ""
 "(https://translate.fedoraproject.org/stats/) ([plano de migração](https://"
 "fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "[internationalisation de la documentation](https://fedoraproject.org/wiki/"
 "User:Jibecfed/fedoradoc-antora-localization) de la distribution Linux Fedora"
@@ -58,13 +50,13 @@ msgstr ""
 "[internacionalização da documentação](https://fedoraproject.org/wiki/User:"
 "Jibecfed/fedoradoc-antora-localization) da distribuição do Linux Fedora"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "Création de [statistiques de progression des traductions](https://pagure.io/"
 "fedora-localization-statistics) de la distribution Linux fedora"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
 msgstr ""
 
@@ -72,6 +64,21 @@ msgstr ""
 msgid "Autre éléments :"
 msgstr "Outros elementos :"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
 msgstr ""
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "draft: false\n"
+#~| "---\n"
+#~ msgid ""
+#~ "draft: false\n"
+#~ "license: CC-BY SA 4.0\n"
+#~ "---\n"
+#~ msgstr ""
+#~ "rascunho: falso\n"
+#~ "---\n"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -19,32 +19,26 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: license
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "title: Contribuer\n"
-#| "menu: main\n"
-#| "---\n"
-msgid ""
-"title: Contribuer\n"
-"menu: main\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
+msgid "CC-BY SA 4.0"
 msgstr ""
-"title: المساهمة\n"
-"menu: main\n"
-"---\n"
+
+#. type: YAML Front Matter: menu
+#, no-wrap
+msgid "main"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#, no-wrap
+msgid "Contribuer"
+msgstr ""
 
 #. type: Plain text
 msgid "Pour contribuer, vous pouvez :"
 msgstr "للمساهمة ، يمكنكم:"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
@@ -52,14 +46,14 @@ msgstr ""
 "مشاركة المقالات وأن تبعثوا لنا إشارات webmentions (يمكنكم القيام بذلك بسهولة "
 "باستخدام الزر الموجود أسفل الصفحة)"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
 "languages-in-floss/"
 msgstr ""
 "ترجمة المقالات إلى لغتكم على: https://hosted.weblate.org/languages-in-floss/"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "soumettre un article (en français) sur Github : https://github.com/languages-"
 "in-floss/site"
@@ -75,3 +69,21 @@ msgstr ""
 "للإنظمام إلينا ، يمكنكم استخدام قاعة المترجمين **traducteurs** على شبكة "
 "jabberfr: [رابط xmpp](xmpp://traducteurs@chat.jabberfr.org) ، [رابط الويب]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "title: Contribuer\n"
+#~| "menu: main\n"
+#~| "---\n"
+#~ msgid ""
+#~ "title: Contribuer\n"
+#~ "menu: main\n"
+#~ "license: CC-BY SA 4.0\n"
+#~ "---\n"
+#~ msgstr ""
+#~ "title: المساهمة\n"
+#~ "menu: main\n"
+#~ "---\n"

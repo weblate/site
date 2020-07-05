@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-07-05 08:04+0000\n"
 "Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: English <https://translate.fedoraproject.org/projects/"
@@ -18,29 +18,34 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
-#: ./content/fr/search.md:1
+#. type: YAML Front Matter: layout
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#: ./content/fr/search.md:6
-msgid "license: CC-BY SA 4.0 type: page layout: search outputs:"
+msgid "search"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/search.md:7
+#. type: YAML Front Matter: license
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr ""
+
+#. type: YAML Front Matter: outputs
+#, no-wrap
 msgid "html"
 msgstr ""
 
-#. type: Title -
-#: ./content/fr/search.md:8
+#. type: YAML Front Matter: outputs
 #, no-wrap
 msgid "json"
 msgstr ""
 
+#. type: YAML Front Matter: type
+#, no-wrap
+msgid "page"
+msgstr ""
+
 #. type: Plain text
-#: ./content/fr/search.md:10
 msgid "Vos résultats de recherche"
 msgstr ""
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
