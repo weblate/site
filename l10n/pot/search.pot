@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,29 +16,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: layout
 #: ./content/fr/search.md:1
 #, no-wrap
-msgid "---\n"
+msgid "search"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/search.md:6
-msgid "license: CC-BY SA 4.0 type: page layout: search outputs:"
+#. type: YAML Front Matter: license
+#: ./content/fr/search.md:1
+#, no-wrap
+msgid "CC-BY SA 4.0"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/search.md:7
+#. type: YAML Front Matter: outputs
+#: ./content/fr/search.md:1
+#, no-wrap
 msgid "html"
 msgstr ""
 
-#. type: Title -
-#: ./content/fr/search.md:8
+#. type: YAML Front Matter: outputs
+#: ./content/fr/search.md:1
 #, no-wrap
 msgid "json"
 msgstr ""
 
+#. type: YAML Front Matter: type
+#: ./content/fr/search.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
 #. type: Plain text
 #: ./content/fr/search.md:10
+#, markdown-text
 msgid "Vos résultats de recherche"
 msgstr ""

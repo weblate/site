@@ -58,14 +58,16 @@ use_po_module () {
 
 		if [ ! -e "$PO_DIR/$lang/$potname.po" ]; then
 			po4a-gettextize \
-				--format asciidoc \
+				--format text \
+				--option markdown \
 				--master "$file" \
 				--master-charset "UTF-8" \
 				--po "$PO_DIR/$lang/$potname.po"
 		fi
 
 		po4a-translate \
-			--format asciidoc \
+			--format text \
+			--option markdown \
 			--master "$file" \
 			--master-charset "UTF-8" \
 			--po "$PO_DIR/$lang/$potname.po" \

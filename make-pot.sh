@@ -53,7 +53,8 @@ do
     fi
 
     po4a-gettextize \
-        --format asciidoc \
+        --format text \
+        --option markdown \
         --master "$file" \
         --master-charset "UTF-8" \
         --po "$POTDIR/$potname"

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,43 +16,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: license
 #: ./content/fr/page/contribute.md:1
 #, no-wrap
-msgid "---\n"
+msgid "CC-BY SA 4.0"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/page/contribute.md:5
+#. type: YAML Front Matter: menu
+#: ./content/fr/page/contribute.md:1
 #, no-wrap
-msgid ""
-"title: Contribuer\n"
-"menu: main\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
+msgid "main"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./content/fr/page/contribute.md:1
+#, no-wrap
+msgid "Contribuer"
 msgstr ""
 
 #. type: Plain text
 #: ./content/fr/page/contribute.md:8
+#, markdown-text
 msgid "Pour contribuer, vous pouvez :"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/page/contribute.md:10
+#. type: Bullet: '* '
+#: ./content/fr/page/contribute.md:12
+#, markdown-text
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
 
-#. type: Plain text
-#: ./content/fr/page/contribute.md:11
+#. type: Bullet: '* '
+#: ./content/fr/page/contribute.md:12
+#, markdown-text
 msgid ""
 "traduire les articles dans votre langue sur : "
 "https://hosted.weblate.org/languages-in-floss/"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 #: ./content/fr/page/contribute.md:12
+#, markdown-text
 msgid ""
 "soumettre un article (en français) sur Github : "
 "https://github.com/languages-in-floss/site"
@@ -60,6 +66,7 @@ msgstr ""
 
 #. type: Plain text
 #: ./content/fr/page/contribute.md:13
+#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
