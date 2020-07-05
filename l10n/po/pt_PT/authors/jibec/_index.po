@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 16:59+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: 2020-06-25 13:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
@@ -19,66 +19,59 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:1
 #, no-wrap
 msgid "---\n"
 msgstr "---\n"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:3
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "draft: false\n"
+#| "---\n"
 msgid ""
 "draft: false\n"
+"license: CC-BY SA 4.0\n"
 "---\n"
 msgstr ""
 "rascunho: falso\n"
 "---\n"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:6
 msgid "Mes contributions :"
 msgstr "As minhas contribuições :"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:8
 msgid ""
 "migration de la distribution Linux Fedora vers la plateforme de traduction "
-"[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
-"migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
+"[Weblate](https://translate.fedoraproject.org/stats/) ([plan de migration]"
+"(https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
-"Migração da distribuição Linux Fedora para a plataforma de tradução "
-"[Weblate](https://translate.fedoraproject.org/stats/) ([plano de "
-"migração](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
+"Migração da distribuição Linux Fedora para a plataforma de tradução [Weblate]"
+"(https://translate.fedoraproject.org/stats/) ([plano de migração](https://"
+"fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:9
 msgid ""
-"[internationalisation de la "
-"documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
-"de la distribution Linux Fedora"
+"[internationalisation de la documentation](https://fedoraproject.org/wiki/"
+"User:Jibecfed/fedoradoc-antora-localization) de la distribution Linux Fedora"
 msgstr ""
 "[internacionalização da documentação](https://fedoraproject.org/wiki/User:"
 "Jibecfed/fedoradoc-antora-localization) da distribuição do Linux Fedora"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:10
 msgid ""
-"Création de [statistiques de progression des "
-"traductions](https://pagure.io/fedora-localization-statistics) de la "
-"distribution Linux fedora"
+"Création de [statistiques de progression des traductions](https://pagure.io/"
+"fedora-localization-statistics) de la distribution Linux fedora"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:11
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:13
 msgid "Autre éléments :"
 msgstr "Outros elementos :"
 
 #. type: Plain text
-#: ./content/fr/authors/jibec/_index.md:14
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
 msgstr ""
