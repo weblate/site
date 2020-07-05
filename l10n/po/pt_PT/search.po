@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 16:59+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: 2020-06-25 13:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
@@ -19,32 +19,28 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: Plain text
-#: ./content/fr/search.md:1
 #, no-wrap
 msgid "---\n"
 msgstr "---\n"
 
 #. type: Plain text
-#: ./content/fr/search.md:5
-msgid "type: page layout: search outputs:"
+msgid "license: CC-BY SA 4.0 type: page layout: search outputs:"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:6
 msgid "html"
 msgstr "html"
 
-#. type: Plain text
-#: ./content/fr/search.md:7
-#, no-wrap
-msgid ""
-"json\n"
-"---\n"
+#. type: Title -
+#, fuzzy, no-wrap
+#| msgid ""
+#| "json\n"
+#| "---\n"
+msgid "json"
 msgstr ""
 "json\n"
 "---\n"
 
 #. type: Plain text
-#: ./content/fr/search.md:9
 msgid "Vos résultats de recherche"
 msgstr "Os seus resultados da procura"

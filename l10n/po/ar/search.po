@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-06-12 16:59+0200\n"
+"POT-Creation-Date: 2020-07-03 22:25+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -25,18 +25,21 @@ msgid "---\n"
 msgstr "---\n"
 
 #. type: Plain text
-msgid "type: page layout: search outputs:"
+#, fuzzy
+#| msgid "type: page layout: search outputs:"
+msgid "license: CC-BY SA 4.0 type: page layout: search outputs:"
 msgstr "type: page layout: search outputs:"
 
 #. type: Plain text
 msgid "html"
 msgstr "html"
 
-#. type: Plain text
-#, no-wrap
-msgid ""
-"json\n"
-"---\n"
+#. type: Title -
+#, fuzzy, no-wrap
+#| msgid ""
+#| "json\n"
+#| "---\n"
+msgid "json"
 msgstr ""
 "json\n"
 "---\n"
