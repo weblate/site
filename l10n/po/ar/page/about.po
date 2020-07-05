@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -19,35 +19,26 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 4.1.1\n"
 
+#. type: YAML Front Matter: license
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr ""
+
+#. type: YAML Front Matter: menu
+#, no-wrap
+msgid "main"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#, no-wrap
+msgid "À propos"
+msgstr ""
+
 #. type: Plain text
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "title: À propos\n"
-#| "menu: main\n"
-#| "---\n"
 msgid ""
-"title: À propos\n"
-"menu: main\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
-msgstr ""
-"title: عن\n"
-"menu: main\n"
-"---\n"
-
-#. type: Plain text
-msgid ""
-"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec"
-"\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]"
-"({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe "
-"aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.  Par "
-"rebond, nous encourageons toute personne souhaitant traduire ou permettre la "
-"traduction de contenus dans sa langue."
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
 
 #. type: Plain text
@@ -56,7 +47,7 @@ msgid ""
 "logiciel libre :"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
@@ -64,7 +55,7 @@ msgstr ""
 "لقد جرّبنا العديد من منصات الترجمة ولدينا الخبرة في إدارة واستضافة البعض "
 "منها ،"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
@@ -97,3 +88,21 @@ msgstr ""
 "للإنظمام إلينا ، يمكنكم استخدام قاعة المترجمين **traducteurs** على شبكة "
 "jabberfr: [رابط xmpp](xmpp://traducteurs@chat.jabberfr.org) ، [رابط الويب]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "title: À propos\n"
+#~| "menu: main\n"
+#~| "---\n"
+#~ msgid ""
+#~ "title: À propos\n"
+#~ "menu: main\n"
+#~ "license: CC-BY SA 4.0\n"
+#~ "---\n"
+#~ msgstr ""
+#~ "title: عن\n"
+#~ "menu: main\n"
+#~ "---\n"

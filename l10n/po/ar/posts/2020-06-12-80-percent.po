@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -19,44 +19,55 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: authors
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#, fuzzy
-#| msgid ""
-#| "title: Quand 80% de l’humanité ne parle pas anglais date: 2020-06-12 "
-#| "draft: false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] tags:"
-msgid ""
-"title: Quand 80% de l’humanité ne parle pas anglais date: 2020-06-12 draft: "
-"false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] license: CC-BY "
-"SA 4.0 tags:"
-msgstr ""
-"title: حين لا تتكلم 80٪ من الإنسانية الإنجليزية date: 2020-06-12 draft: "
-"false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] tags:"
-
-#. type: Plain text
-msgid "enjeux"
+msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
 msgstr ""
 
-#. type: Plain text
-msgid "partage categories:"
-msgstr ""
-
-#. type: Plain text
+#. type: YAML Front Matter: categories
+#, no-wrap
 msgid "Régionalisation"
 msgstr ""
 
-#. type: Plain text
-#, no-wrap
-msgid ""
-"Internationalisation\n"
-"---\n"
+#. type: YAML Front Matter: categories
+#, fuzzy, no-wrap
+#| msgid ""
+#| "Internationalisation\n"
+#| "---\n"
+msgid "Internationalisation"
 msgstr ""
 "التدويل\n"
 "---\n"
+
+#. type: YAML Front Matter: date
+#, no-wrap
+msgid "2020-06-12"
+msgstr ""
+
+#. type: YAML Front Matter: draft
+#, no-wrap
+msgid "false"
+msgstr ""
+
+#. type: YAML Front Matter: license
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr ""
+
+#. type: YAML Front Matter: tags
+#, no-wrap
+msgid "enjeux"
+msgstr ""
+
+#. type: YAML Front Matter: tags
+#, no-wrap
+msgid "partage"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#, no-wrap
+msgid "Quand 80% de l’humanité ne parle pas anglais"
+msgstr ""
 
 #. type: Plain text
 msgid ""
@@ -71,8 +82,10 @@ msgstr ""
 "هذا يمثل تعقيدا وتكلفة عالية ولكن لمرة واحدة وهي بمجرد أن يتم ذلك في إطار "
 "التشغيل الآلي سيسمح بعدد غير محدود من اللغات."
 
-#. type: Plain text
-msgid "## Un écosystème très anglophone"
+#. type: Title ##
+#, fuzzy, no-wrap
+#| msgid "## Un écosystème très anglophone"
+msgid "Un écosystème très anglophone"
 msgstr "## بيئة انجلوفونية كثيرا"
 
 #. type: Plain text
@@ -109,8 +122,9 @@ msgid ""
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
 
-#. type: Plain text
-msgid "## Une population mondiale peu anglophone"
+#. type: Title ##
+#, no-wrap
+msgid "Une population mondiale peu anglophone"
 msgstr ""
 
 #. type: Plain text
@@ -163,28 +177,30 @@ msgstr ""
 "من أجل زيادة عدد المستخدمين والمستخدمات المحتملين هناك حاجة إلى إضافة الدعم "
 "اللغوي. هذا ما يسمى بالتدويل."
 
-#. type: Plain text
-msgid "## La complexité de l’internationalisation"
+#. type: Title ##
+#, fuzzy, no-wrap
+#| msgid "## La complexité de l’internationalisation"
+msgid "La complexité de l’internationalisation"
 msgstr "## التدويل معقّد"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
 msgstr "يتطلّب دعم عدة لغات:"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "de changer ses processus de conception logicielle pour intégrer le travail "
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
@@ -218,8 +234,10 @@ msgid ""
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
 
-#. type: Plain text
-msgid "## Le rôle de Languages-in-floss"
+#. type: Title ##
+#, fuzzy, no-wrap
+#| msgid "## Le rôle de Languages-in-floss"
+msgid "Le rôle de Languages-in-floss"
 msgstr "## دور Languages-in-floss"
 
 #. type: Plain text
@@ -238,3 +256,18 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "title: Quand 80% de l’humanité ne parle pas anglais date: 2020-06-12 "
+#~| "draft: false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] tags:"
+#~ msgid ""
+#~ "title: Quand 80% de l’humanité ne parle pas anglais date: 2020-06-12 "
+#~ "draft: false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] "
+#~ "license: CC-BY SA 4.0 tags:"
+#~ msgstr ""
+#~ "title: حين لا تتكلم 80٪ من الإنسانية الإنجليزية date: 2020-06-12 draft: "
+#~ "false authors: [\"jibec\", \"butterflyoffire\", \"quenti\"] tags:"

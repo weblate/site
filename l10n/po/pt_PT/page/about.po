@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-06-25 13:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
@@ -18,28 +18,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: license
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
+msgid "CC-BY SA 4.0"
+msgstr ""
 
-#. type: Plain text
+#. type: YAML Front Matter: menu
 #, no-wrap
-msgid ""
-"title: À propos\n"
-"menu: main\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
+msgid "main"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#, no-wrap
+msgid "À propos"
 msgstr ""
 
 #. type: Plain text
+#, no-wrap
 msgid ""
-"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec"
-"\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]"
-"({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe "
-"aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.  Par "
-"rebond, nous encourageons toute personne souhaitant traduire ou permettre la "
-"traduction de contenus dans sa langue."
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
 
 #. type: Plain text
@@ -48,13 +46,13 @@ msgid ""
 "logiciel libre :"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
@@ -82,3 +80,6 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+
+#~ msgid "---\n"
+#~ msgstr "---\n"

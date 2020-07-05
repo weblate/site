@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-03 22:25+0200\n"
+"POT-Creation-Date: 2020-07-05 10:00+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -19,29 +19,21 @@ msgstr ""
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: Plain text
+#. type: YAML Front Matter: draft
 #, no-wrap
-msgid "---\n"
-msgstr "---\n"
-
-#. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "draft: false\n"
-#| "---\n"
-msgid ""
-"draft: false\n"
-"license: CC-BY SA 4.0\n"
-"---\n"
+msgid "false"
 msgstr ""
-"draft: false\n"
-"---\n"
+
+#. type: YAML Front Matter: license
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr ""
 
 #. type: Plain text
 msgid "Mes contributions :"
 msgstr "مساهماتي:"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "migration de la distribution Linux Fedora vers la plateforme de traduction "
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de migration]"
@@ -51,7 +43,7 @@ msgstr ""
 "fedoraproject.org/stats/) ([خطة التهجير](https://fedoraproject.org/wiki/"
 "L10N_Move_to_Weblate))"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "[internationalisation de la documentation](https://fedoraproject.org/wiki/"
 "User:Jibecfed/fedoradoc-antora-localization) de la distribution Linux Fedora"
@@ -59,7 +51,7 @@ msgstr ""
 "[تدويل مستندات](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-"
 "antora-localization) توزيعة لينكس فيدورا"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid ""
 "Création de [statistiques de progression des traductions](https://pagure.io/"
 "fedora-localization-statistics) de la distribution Linux fedora"
@@ -67,7 +59,7 @@ msgstr ""
 "إنشاء [إحصائيات عن تقدم الترجمات](https://pagure.io/fedora-localization-"
 "statistics) الخاصة بتوزيعة لينكس فيدورا"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
 msgstr "إنشاء موقع [Languages in FLOSS](https://languages-in-floss.eu)"
 
@@ -75,6 +67,21 @@ msgstr "إنشاء موقع [Languages in FLOSS](https://languages-in-floss.eu)"
 msgid "Autre éléments :"
 msgstr "أخرى:"
 
-#. type: Plain text
+#. type: Bullet: '* '
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
 msgstr "[مدونتي](https://jibecfed.fedorapeople.org/blog-hugo/)"
+
+#~ msgid "---\n"
+#~ msgstr "---\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "draft: false\n"
+#~| "---\n"
+#~ msgid ""
+#~ "draft: false\n"
+#~ "license: CC-BY SA 4.0\n"
+#~ "---\n"
+#~ msgstr ""
+#~ "draft: false\n"
+#~ "---\n"

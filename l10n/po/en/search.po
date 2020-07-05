@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-05 10:00+0200\n"
-"PO-Revision-Date: 2020-06-25 13:40+0000\n"
-"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
-"Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
-"projects/languages-in-floss/search/pt_PT/>\n"
-"Language: pt_PT\n"
+"PO-Revision-Date: 2020-07-05 08:04+0000\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
+"Language-Team: English <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/search/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: layout
@@ -31,17 +31,12 @@ msgstr ""
 #. type: YAML Front Matter: outputs
 #, no-wrap
 msgid "html"
-msgstr "html"
+msgstr ""
 
 #. type: YAML Front Matter: outputs
-#, fuzzy, no-wrap
-#| msgid ""
-#| "json\n"
-#| "---\n"
+#, no-wrap
 msgid "json"
 msgstr ""
-"json\n"
-"---\n"
 
 #. type: YAML Front Matter: type
 #, no-wrap
@@ -50,7 +45,7 @@ msgstr ""
 
 #. type: Plain text
 msgid "Vos résultats de recherche"
-msgstr "Os seus resultados da procura"
+msgstr ""
 
 #~ msgid "---\n"
 #~ msgstr "---\n"
