@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-05 10:00+0200\n"
-"PO-Revision-Date: 2020-07-05 08:04+0000\n"
+"PO-Revision-Date: 2020-07-06 14:27+0000\n"
 "Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: English <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/search/en/>\n"
@@ -21,12 +21,12 @@ msgstr ""
 #. type: YAML Front Matter: layout
 #, no-wrap
 msgid "search"
-msgstr ""
+msgstr "search"
 
 #. type: YAML Front Matter: license
 #, no-wrap
 msgid "CC-BY SA 4.0"
-msgstr ""
+msgstr "CC-BY SA 4.0"
 
 #. type: YAML Front Matter: outputs
 #, no-wrap
@@ -45,7 +45,7 @@ msgstr ""
 
 #. type: Plain text
 msgid "Vos résultats de recherche"
-msgstr ""
+msgstr "Your search results"
 
 #~ msgid "---\n"
 #~ msgstr "---\n"
