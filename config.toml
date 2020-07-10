@@ -112,8 +112,19 @@ LanguageDirection = "rtl"
 [languages.ar.params.info]
 description = "مشاركات و مغامرات"
 
+[languages.pt_BR]
+lang = "pt_BR"
+contentDir = "content-translated/pt_BR"
+languageName = "Português (Brazil)"
+title = "Idiomas e software livre"
+weight = 1
+
+[languages.pt_BR.params.info]
+description = "Desafios e aventuras"
+title404 = "Não encontramos esta página, URL incorreta?"
+
 [languages.pt_PT]
 lang = "pt_PT"
 contentDir = "content-translated/pt_PT"
-languageName = "Português"
+languageName = "Português (Portugal)"
 weight = 1
