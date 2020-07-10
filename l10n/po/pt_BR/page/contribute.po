@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-05 10:00+0200\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
 "PO-Revision-Date: 2020-07-08 13:27+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
@@ -19,32 +19,25 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: license
-#: ./content/fr/page/contribute.md:1
 #, no-wrap
 msgid "CC-BY SA 4.0"
 msgstr "CC-BY SA 4.0"
 
 #. type: YAML Front Matter: menu
-#: ./content/fr/page/contribute.md:1
 #, no-wrap
 msgid "main"
 msgstr "principal"
 
 #. type: YAML Front Matter: title
-#: ./content/fr/page/contribute.md:1
 #, no-wrap
 msgid "Contribuer"
 msgstr "Contribuir"
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:8
-#, markdown-text
 msgid "Pour contribuer, vous pouvez :"
 msgstr "Para contribuir, você pode:"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
@@ -53,33 +46,27 @@ msgstr ""
 "inferior da página permite fazer isso facilmente)"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
-"traduire les articles dans votre langue sur : "
-"https://hosted.weblate.org/languages-in-floss/"
-msgstr ""
-"traduzir artigos para o seu idioma em: https://hosted.weblate.org/"
+"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
 "languages-in-floss/"
+msgstr ""
+"traduzir artigos para o seu idioma em: https://hosted.weblate.org/languages-"
+"in-floss/"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
-"soumettre un article (en français) sur Github : "
-"https://github.com/languages-in-floss/site"
+"soumettre un article (en français) sur Github : https://github.com/languages-"
+"in-floss/site"
 msgstr ""
-"enviar um artigo (em francês) no GitHub: https://github.com/"
-"languages-in-floss/site"
+"enviar um artigo (em francês) no GitHub: https://github.com/languages-in-"
+"floss/site"
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:13
-#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
 "Para entrar em contato, você pode usar a sala **traducteurs** da rede "
-"jabberfr: [link xmpp](xmpp://traducteurs@chat.jabberfr.org), [link "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [link xmpp](xmpp://traducteurs@chat.jabberfr.org), [link web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
