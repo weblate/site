@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-11 00:27+0200\n"
-"PO-Revision-Date: 2020-07-08 13:27+0000\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"PO-Revision-Date: 2020-07-10 22:33+0000\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/about/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -26,7 +26,7 @@ msgstr "CC-BY SA 4.0"
 #. type: YAML Front Matter: menu
 #, no-wrap
 msgid "main"
-msgstr "principal"
+msgstr "main"
 
 #. type: YAML Front Matter: title
 #, no-wrap
