@@ -1,8 +1,8 @@
 ---
 title: Comment contribuer à la traduction de la distribution Linux Fedora ?
 date: 2020-07-03
-draft: false
-authors: ["jibec"]
+authors:
+- jibec
 license: CC-BY SA 4.0
 tags:
 - contribuer
