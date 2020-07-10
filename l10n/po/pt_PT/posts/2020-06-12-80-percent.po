@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-05 10:00+0200\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
 "PO-Revision-Date: 2020-06-25 13:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese (Portugal) <https://translate.fedoraproject.org/"
@@ -20,7 +20,17 @@ msgstr ""
 
 #. type: YAML Front Matter: authors
 #, no-wrap
-msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
+msgid "jibec"
+msgstr ""
+
+#. type: YAML Front Matter: authors
+#, no-wrap
+msgid "butterflyoffire"
+msgstr ""
+
+#. type: YAML Front Matter: authors
+#, no-wrap
+msgid "quenti"
 msgstr ""
 
 #. type: YAML Front Matter: categories
@@ -41,11 +51,6 @@ msgstr ""
 #. type: YAML Front Matter: date
 #, no-wrap
 msgid "2020-06-12"
-msgstr ""
-
-#. type: YAML Front Matter: draft
-#, no-wrap
-msgid "false"
 msgstr ""
 
 #. type: YAML Front Matter: license

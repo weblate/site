@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-05 10:00+0200\n"
-"PO-Revision-Date: 2020-07-08 13:27+0000\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"PO-Revision-Date: 2020-07-10 22:33+0000\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2020-06-12-80-percent/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -19,62 +19,56 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
-msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
-msgstr "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
+msgid "jibec"
+msgstr "jibec"
+
+#. type: YAML Front Matter: authors
+#, no-wrap
+msgid "butterflyoffire"
+msgstr "butterflyoffire"
+
+#. type: YAML Front Matter: authors
+#, no-wrap
+msgid "quenti"
+msgstr "quenti"
 
 #. type: YAML Front Matter: categories
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Regionalização"
 
 #. type: YAML Front Matter: categories
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Internationalisation"
 msgstr "Internacionalização"
 
 #. type: YAML Front Matter: date
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "2020-06-12"
 msgstr "2020-06-12"
 
-#. type: YAML Front Matter: draft
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
-#, no-wrap
-msgid "false"
-msgstr "falso"
-
 #. type: YAML Front Matter: license
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "CC-BY SA 4.0"
 msgstr "CC-BY SA 4.0"
 
 #. type: YAML Front Matter: tags
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "enjeux"
 msgstr "desafio"
 
 #. type: YAML Front Matter: tags
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "partage"
 msgstr "compartilhamento"
 
 #. type: YAML Front Matter: title
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr "Quando 80% da humanidade não fala inglês"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:17
-#, markdown-text
 msgid ""
 "Alors que l’écosystème du logiciel libre est très anglophone, prendre en "
 "charge plusieurs langues dans un logiciel permet de multiplier par 5 ou par "
@@ -89,14 +83,11 @@ msgstr ""
 "ilimitado de idiomas."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:18
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Un écosystème très anglophone"
 msgstr "Um ecossistema de língua inglesa"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:23
-#, markdown-text
 msgid ""
 "Le monde du logiciel libre et open-source est très divers, allant des "
 "couches d’interactions avec le matériel jusqu’aux logiciels que nous "
@@ -113,8 +104,6 @@ msgstr ""
 "possível."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:26
-#, markdown-text
 msgid ""
 "Dans le monde du logiciel libre, l’anglais est la langue de travail par "
 "défaut, et l’écrit y est le canal le plus utilisé.  Ce fonctionnement est un "
@@ -129,8 +118,6 @@ msgstr ""
 "ou mais softwares livres."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:29
-#, markdown-text
 msgid ""
 "Par confort, les personnes créant des logiciels utilisent souvent l’anglais "
 "plutôt que leur langue maternelle.  En conséquence, ils comprennent rarement "
@@ -144,8 +131,6 @@ msgstr ""
 "fragmentos, variáveis não nomeadas, jargão técnico intraduzível, etc.)."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:31
-#, markdown-text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
@@ -154,14 +139,11 @@ msgstr ""
 "controle sobre o que realmente é exibido ao usuário."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:32
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Une population mondiale peu anglophone"
 msgstr "Uma população mundial de língua inglesa"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:36
-#, markdown-text
 msgid ""
 "Il y a de grandes chances pour que les utilisateurs et utilisatrices aient "
 "une langue maternelle qui ne soit pas l’anglais.  Et inciter les "
@@ -175,8 +157,6 @@ msgstr ""
 "seja a dos desenvolvedores encarregados da ferramenta."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:39
-#, markdown-text
 msgid ""
 "Quelle que soit leur langue, les utilisateurs et utilisatrices préfèreront "
 "utiliser leur propre langue pour atteindre leur but, car cela augmente leur "
@@ -190,16 +170,15 @@ msgstr ""
 "se você não possuir um domínio do inglês."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:43
-#, markdown-text
 msgid ""
 "Dans le détail, il existe des estimations de population par langue et "
 "territoire fournies par le consortium Unicode, et plus particulièrement le "
-"CLDR.  [Ces estimations indiquent que 21 "
-"%](https://github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt) "
-"des habitant·e·s de la planète parleraient anglais.  Mais ici, parler "
-"englobe des situations très diverses, si on considère les personnes ayant un "
-"niveau natif ou courant, nous descendons à 9 %."
+"CLDR.  [Ces estimations indiquent que 21 %](https://github.com/unicode-org/"
+"cldr/commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) des habitant·e·s de la planète "
+"parleraient anglais.  Mais ici, parler englobe des situations très diverses, "
+"si on considère les personnes ayant un niveau natif ou courant, nous "
+"descendons à 9 %."
 msgstr ""
 "Em detalhes, há estimativas de população por idioma e território fornecidas "
 "pelo consórcio Unicode e, mais especificamente, pelo CLDR. [Essas "
@@ -210,8 +189,6 @@ msgstr ""
 "atual, reduzimos para 9%."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:46
-#, markdown-text
 msgid ""
 "L’enjeu en cherchant à augmenter le nombre d’utilisateurs est d’augmenter le "
 "nombre potentiel de contributeurs et contributrices, qui viendront faire "
@@ -230,8 +207,6 @@ msgstr ""
 "tradução."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:49
-#, markdown-text
 msgid ""
 "Pour pouvoir démultiplier les utilisateurs et utilisatrices potentiels, il "
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
@@ -241,20 +216,15 @@ msgstr ""
 "suporte linguístico. Isso se chama internacionalização."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:50
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "La complexité de l’internationalisation"
 msgstr "A complexidade da internacionalização"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:53
-#, markdown-text
 msgid "Prendre en charge de multiples langues nécessite :"
 msgstr "O suporte a vários idiomas requer:"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:58
-#, markdown-text
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
@@ -263,8 +233,6 @@ msgstr ""
 "para ser traduzido, traduzir e distribuir)"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:58
-#, markdown-text
 msgid ""
 "de changer ses processus de conception logicielle pour intégrer le travail "
 "de traduction (quand le code est terminé, il faut informer les personnes "
@@ -275,8 +243,6 @@ msgstr ""
 "executam as traduções e integrar seu trabalho)"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:58
-#, markdown-text
 msgid ""
 "de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
@@ -287,8 +253,6 @@ msgstr ""
 "adaptadas etc."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
-#, markdown-text
 msgid ""
 "Et au-delà de l’interface utilisateur, il faut également inclure les "
 "interface en ligne de commande, les sites web de présentation, des lettres "
@@ -300,8 +264,6 @@ msgstr ""
 "line, páginas de manual, notas de lançamento..."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:63
-#, markdown-text
 msgid ""
 "Internationaliser coûte du temps et nécessite des compétences techniques "
 "avancées.  Malheureusement, certains outils utilisés par les logiciels "
@@ -313,8 +275,6 @@ msgstr ""
 "então o especialista que precisará se defender ou trocar de ferramenta."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:68
-#, markdown-text
 msgid ""
 "La bonne nouvelle est que ce travail n’est à mener qu’une seule fois pour un "
 "nombre théoriquement illimité de langues.  C’est une bonne nouvelle, car il "
@@ -333,14 +293,11 @@ msgstr ""
 "em ferramentas digitais é perigoso."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:69
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Le rôle de Languages-in-floss"
 msgstr "O papel de Languages-in-floss"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:72
-#, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
@@ -351,8 +308,6 @@ msgstr ""
 "e occitânico."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:73
-#, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "
@@ -362,3 +317,9 @@ msgstr ""
 "Seja você um defensor de um idioma, ou um desenvolvedor, descobrirá que o "
 "multilinguismo é possível em qualquer atividade relacionada a software livre "
 "e de código aberto, tentaremos facilitar sua vida neste mundo complexo."
+
+#~ msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
+#~ msgstr "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
+
+#~ msgid "false"
+#~ msgstr "falso"
