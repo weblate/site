@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-10 23:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,19 +19,7 @@ msgstr ""
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
-msgid "jibec"
-msgstr ""
-
-#. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
-#, no-wrap
-msgid "butterflyoffire"
-msgstr ""
-
-#. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
-#, no-wrap
-msgid "quenti"
+msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
 msgstr ""
 
 #. type: YAML Front Matter: categories
@@ -50,6 +38,12 @@ msgstr ""
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "2020-06-12"
+msgstr ""
+
+#. type: YAML Front Matter: draft
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "false"
 msgstr ""
 
 #. type: YAML Front Matter: license
@@ -77,7 +71,7 @@ msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:19
+#: ./content/fr/posts/2020-06-12-80-percent.md:17
 #, markdown-text
 msgid ""
 "Alors que l’écosystème du logiciel libre est très anglophone, prendre en "
@@ -88,13 +82,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:20
+#: ./content/fr/posts/2020-06-12-80-percent.md:18
 #, markdown-text, no-wrap
 msgid "Un écosystème très anglophone"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:25
+#: ./content/fr/posts/2020-06-12-80-percent.md:23
 #, markdown-text
 msgid ""
 "Le monde du logiciel libre et open-source est très divers, allant des "
@@ -106,7 +100,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:28
+#: ./content/fr/posts/2020-06-12-80-percent.md:26
 #, markdown-text
 msgid ""
 "Dans le monde du logiciel libre, l’anglais est la langue de travail par "
@@ -117,7 +111,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:31
+#: ./content/fr/posts/2020-06-12-80-percent.md:29
 #, markdown-text
 msgid ""
 "Par confort, les personnes créant des logiciels utilisent souvent l’anglais "
@@ -128,7 +122,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:33
+#: ./content/fr/posts/2020-06-12-80-percent.md:31
 #, markdown-text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
@@ -136,13 +130,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:34
+#: ./content/fr/posts/2020-06-12-80-percent.md:32
 #, markdown-text, no-wrap
 msgid "Une population mondiale peu anglophone"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:38
+#: ./content/fr/posts/2020-06-12-80-percent.md:36
 #, markdown-text
 msgid ""
 "Il y a de grandes chances pour que les utilisateurs et utilisatrices aient "
@@ -153,7 +147,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:41
+#: ./content/fr/posts/2020-06-12-80-percent.md:39
 #, markdown-text
 msgid ""
 "Quelle que soit leur langue, les utilisateurs et utilisatrices préfèreront "
@@ -164,7 +158,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:45
+#: ./content/fr/posts/2020-06-12-80-percent.md:43
 #, markdown-text
 msgid ""
 "Dans le détail, il existe des estimations de population par langue et "
@@ -177,7 +171,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:48
+#: ./content/fr/posts/2020-06-12-80-percent.md:46
 #, markdown-text
 msgid ""
 "L’enjeu en cherchant à augmenter le nombre d’utilisateurs est d’augmenter le "
@@ -190,7 +184,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:51
+#: ./content/fr/posts/2020-06-12-80-percent.md:49
 #, markdown-text
 msgid ""
 "Pour pouvoir démultiplier les utilisateurs et utilisatrices potentiels, il "
@@ -199,19 +193,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:52
+#: ./content/fr/posts/2020-06-12-80-percent.md:50
 #, markdown-text, no-wrap
 msgid "La complexité de l’internationalisation"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:55
+#: ./content/fr/posts/2020-06-12-80-percent.md:53
 #, markdown-text
 msgid "Prendre en charge de multiples langues nécessite :"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#: ./content/fr/posts/2020-06-12-80-percent.md:58
 #, markdown-text
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
@@ -219,7 +213,7 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#: ./content/fr/posts/2020-06-12-80-percent.md:58
 #, markdown-text
 msgid ""
 "de changer ses processus de conception logicielle pour intégrer le travail "
@@ -228,7 +222,7 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#: ./content/fr/posts/2020-06-12-80-percent.md:58
 #, markdown-text
 msgid ""
 "de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
@@ -237,7 +231,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:62
+#: ./content/fr/posts/2020-06-12-80-percent.md:60
 #, markdown-text
 msgid ""
 "Et au-delà de l’interface utilisateur, il faut également inclure les "
@@ -247,7 +241,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:65
+#: ./content/fr/posts/2020-06-12-80-percent.md:63
 #, markdown-text
 msgid ""
 "Internationaliser coûte du temps et nécessite des compétences techniques "
@@ -257,7 +251,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:70
+#: ./content/fr/posts/2020-06-12-80-percent.md:68
 #, markdown-text
 msgid ""
 "La bonne nouvelle est que ce travail n’est à mener qu’une seule fois pour un "
@@ -270,13 +264,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:71
+#: ./content/fr/posts/2020-06-12-80-percent.md:69
 #, markdown-text, no-wrap
 msgid "Le rôle de Languages-in-floss"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:74
+#: ./content/fr/posts/2020-06-12-80-percent.md:72
 #, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
@@ -285,7 +279,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:75
+#: ./content/fr/posts/2020-06-12-80-percent.md:73
 #, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
