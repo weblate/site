@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
 "PO-Revision-Date: 2020-07-15 12:00+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
@@ -17,16 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
-
-#. type: YAML Front Matter: license
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr "CC-BY SA 4.0"
-
-#. type: YAML Front Matter: menu
-#, no-wrap
-msgid "main"
-msgstr "main"
 
 #. type: YAML Front Matter: title
 #, no-wrap
@@ -97,3 +87,9 @@ msgstr ""
 "Para entrar em contato, você pode usar a sala **traducteurs** da rede "
 "jabberfr: [link xmpp](xmpp://traducteurs@chat.jabberfr.org), [link web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY SA 4.0"
+
+#~ msgid "main"
+#~ msgstr "main"
