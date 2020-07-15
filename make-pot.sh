@@ -55,6 +55,7 @@ do
     po4a-gettextize \
         --format text \
         --option markdown \
+        --option yfm_keys=categories,tags,title \
         --master "$file" \
         --master-charset "UTF-8" \
         --po "$POTDIR/$potname"

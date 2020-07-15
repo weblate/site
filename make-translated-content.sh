@@ -60,6 +60,7 @@ use_po_module () {
 			po4a-gettextize \
 				--format text \
 				--option markdown \
+				--option yfm_keys=categories,tags,title \
 				--master "$file" \
 				--master-charset "UTF-8" \
 				--po "$PO_DIR/$lang/$potname.po"
@@ -68,6 +69,7 @@ use_po_module () {
 		po4a-translate \
 			--format text \
 			--option markdown \
+			--option yfm_keys=categories,tags,title \
 			--master "$file" \
 			--master-charset "UTF-8" \
 			--po "$PO_DIR/$lang/$potname.po" \
