@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/about/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#. type: YAML Front Matter: license
+#: ./content/fr/page/about.md:1
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr "CC-BY-SA 4.0"
+
+#. type: YAML Front Matter: menu
+#: ./content/fr/page/about.md:1
+#, no-wrap
+msgid "main"
+msgstr "principal"
+
+#. type: YAML Front Matter: title
+#: ./content/fr/page/about.md:1
+#, no-wrap
+msgid "À propos"
+msgstr "Acerca de"
+
+#. type: Plain text
+#: ./content/fr/page/about.md:9
+#, markdown-text, no-wrap
+msgid ""
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "
+"\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et "
+"[ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants "
+"de façon directe aux langues suivantes: le français, l'occitan, l'arabe et "
+"le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou "
+"permettre la traduction de contenus dans sa langue.\n"
+msgstr ""
+"Somos tres colaboradores, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}})"
+", [Quenti]({{< relref \"/authors/quenti\" >}}) y [ButterFlyOfFire]({{< "
+"relref \"/authors/butterflyoffire\" >}}), agentes directos para las lenguas "
+"francesa, occitana, árabe y cabilia.\n"
+"Por tanto, alentamos a todo aquel que desee traducir o permitir la "
+"traducción de contenido en su idioma.\n"
+
+#. type: Plain text
+#: ./content/fr/page/about.md:11
+#, markdown-text
+msgid ""
+"De part nos expériences de traducteurs, nous avons éprouvé le monde du "
+"logiciel libre :"
+msgstr ""
+"De nuestra experiencia como traductores, hemos experimentado el mundo del "
+"software libre:"
+
+#. type: Bullet: '* '
+#: ./content/fr/page/about.md:14
+#, markdown-text
+msgid ""
+"nous avons testé des dizaines de plateformes de traduction, et savons "
+"administrer et héberger certaines,"
+msgstr ""
+"hemos probado decenas de plataformas de traducción y sabemos cómo "
+"administrar y hospedar algunas,"
+
+#. type: Bullet: '* '
+#: ./content/fr/page/about.md:14
+#, markdown-text
+msgid ""
+"nous connaissons les processus de diffusion des traductions dans un "
+"logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
+"Android...)"
+msgstr ""
+"conocemos los procesos de diseminación de las traducciones en software, "
+"distribuciones (Ubuntu, Fedora…) y ecosistemas (Linux, Android…)"
+
+#. type: Plain text
+#: ./content/fr/page/about.md:16
+#, markdown-text
+msgid ""
+"Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
+"expériences de terrain pour la prise en charge du français, de l’arabe, du "
+"kabyle et de l’occitan."
+msgstr ""
+"En este contexto, la iniciativa Languages-in-floss tiene por objeto "
+"compartir con usted nuestras experiencias en terreno al hacerse cargo de "
+"proyectos en francés, árabe, cabilio y occitano."
+
+#. type: Plain text
+#: ./content/fr/page/about.md:18
+#, markdown-text
+msgid ""
+"Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
+"développeur, vous découvrirez que le multilinguisme est possible dans toute "
+"activité liée au logiciel libre et open-source, nous allons essayer de vous "
+"faciliter la vie dans ce monde complexe."
+msgstr ""
+"Sea usted promotor de una lengua o desarrollador de software, descubrirá que "
+"el plurilingüismo es posible en cualquier actividad ligada al software libre "
+"y de código abierto; intentaremos facilitarle la vida en este mundo complejo."
+
+#. type: Plain text
+#: ./content/fr/page/about.md:19
+#, markdown-text
+msgid ""
+"Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
+"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+msgstr ""
+"Para ponerse en contacto, puede utilizar la sala **traducteurs** de la red "
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [enlace "
+"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

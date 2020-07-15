@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/pagecontribute/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#. type: YAML Front Matter: license
+#: ./content/fr/page/contribute.md:1
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr "CC-BY-SA 4.0"
+
+#. type: YAML Front Matter: menu
+#: ./content/fr/page/contribute.md:1
+#, no-wrap
+msgid "main"
+msgstr "principal"
+
+#. type: YAML Front Matter: title
+#: ./content/fr/page/contribute.md:1
+#, no-wrap
+msgid "Contribuer"
+msgstr "Contribuir"
+
+#. type: Plain text
+#: ./content/fr/page/contribute.md:8
+#, markdown-text
+msgid "Pour contribuer, vous pouvez :"
+msgstr "Para contribuir, puede:"
+
+#. type: Bullet: '* '
+#: ./content/fr/page/contribute.md:12
+#, markdown-text
+msgid ""
+"partager les articles et nous renvoyer une webmentions (utiliser le bouton "
+"en bas de page vous permet de le faire facilement)"
+msgstr ""
+"compartir los artículos y mencionarnos en la web (el botón en la parte "
+"inferior de la página le permite hacerlo fácilmente)"
+
+#. type: Bullet: '* '
+#: ./content/fr/page/contribute.md:12
+#, markdown-text
+msgid ""
+"traduire les articles dans votre langue sur : "
+"https://hosted.weblate.org/languages-in-floss/"
+msgstr ""
+"traducir los artículos a su lengua mediante: https://hosted.weblate.org/"
+"languages-in-floss/"
+
+#. type: Bullet: '* '
+#: ./content/fr/page/contribute.md:12
+#, markdown-text
+msgid ""
+"soumettre un article (en français) sur Github : "
+"https://github.com/languages-in-floss/site"
+msgstr ""
+"enviar un artículo (en francés) mediante GitHub: https://github.com/"
+"languages-in-floss/site"
+
+#. type: Plain text
+#: ./content/fr/page/contribute.md:13
+#, markdown-text
+msgid ""
+"Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
+"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+msgstr ""
+"Para ponerse en contacto, puede utilizar la sala **traducteurs** de la red "
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [enlace "
+"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

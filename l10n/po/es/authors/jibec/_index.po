@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/authorsjibec_index/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#. type: YAML Front Matter: draft
+#: ./content/fr/authors/jibec/_index.md:1
+#, no-wrap
+msgid "false"
+msgstr "falso"
+
+#. type: YAML Front Matter: license
+#: ./content/fr/authors/jibec/_index.md:1
+#, no-wrap
+msgid "CC-BY SA 4.0"
+msgstr "CC-BY-SA 4.0"
+
+#. type: Plain text
+#: ./content/fr/authors/jibec/_index.md:7
+#, markdown-text
+msgid "Mes contributions :"
+msgstr "Mis contribuciones:"
+
+#. type: Bullet: '* '
+#: ./content/fr/authors/jibec/_index.md:12
+#, markdown-text
+msgid ""
+"migration de la distribution Linux Fedora vers la plateforme de traduction "
+"[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
+"migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
+msgstr ""
+"migración de la distribución Linux Fedora hacia la plataforma de traducción "
+"[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
+"migración](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
+
+#. type: Bullet: '* '
+#: ./content/fr/authors/jibec/_index.md:12
+#, markdown-text
+msgid ""
+"[internationalisation de la "
+"documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
+"de la distribution Linux Fedora"
+msgstr ""
+"[internationalización de la documentación](https://fedoraproject.org/wiki/"
+"User:Jibecfed/fedoradoc-antora-localization) de la distribución Linux Fedora"
+
+#. type: Bullet: '* '
+#: ./content/fr/authors/jibec/_index.md:12
+#, markdown-text
+msgid ""
+"Création de [statistiques de progression des "
+"traductions](https://pagure.io/fedora-localization-statistics) de la "
+"distribution Linux fedora"
+msgstr ""
+"Creación de [estadísticas de progreso de las traducciones](https://pagure.io/"
+"fedora-localization-statistics) de la distribución Linux Fedora"
+
+#. type: Bullet: '* '
+#: ./content/fr/authors/jibec/_index.md:12
+#, markdown-text
+msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
+msgstr "Creación del sitio [Languages in FLOSS](https://languages-in-floss.eu)"
+
+#. type: Plain text
+#: ./content/fr/authors/jibec/_index.md:14
+#, markdown-text
+msgid "Autre éléments :"
+msgstr "Otros elementos:"
+
+#. type: Bullet: '* '
+#: ./content/fr/authors/jibec/_index.md:15
+#, markdown-text
+msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
+msgstr "[Mi blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
