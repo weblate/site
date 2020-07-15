@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
 "PO-Revision-Date: 2020-07-15 12:00+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
@@ -18,38 +18,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: YAML Front Matter: layout
-#: ./content/fr/search.md:1
-#, no-wrap
-msgid "search"
-msgstr "buscar"
-
-#. type: YAML Front Matter: license
-#: ./content/fr/search.md:1
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr "CC-BY-SA 4.0"
-
 #. type: YAML Front Matter: outputs
-#: ./content/fr/search.md:1
 #, no-wrap
 msgid "html"
 msgstr "html"
 
 #. type: YAML Front Matter: outputs
-#: ./content/fr/search.md:1
 #, no-wrap
 msgid "json"
 msgstr "json"
 
-#. type: YAML Front Matter: type
-#: ./content/fr/search.md:1
-#, no-wrap
-msgid "page"
-msgstr ""
-
 #. type: Plain text
-#: ./content/fr/search.md:10
-#, markdown-text
 msgid "Vos résultats de recherche"
 msgstr "Resultados de su búsqueda"
+
+#~ msgid "search"
+#~ msgstr "buscar"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY-SA 4.0"
