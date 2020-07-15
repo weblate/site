@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
 "PO-Revision-Date: 2020-07-15 12:00+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
@@ -19,68 +19,40 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "jibec"
 msgstr "jibec"
 
 #. type: YAML Front Matter: categories
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Regionalización"
 
-#. type: YAML Front Matter: date
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
-#, no-wrap
-msgid "2020-07-03"
-msgstr "2020.7.3"
-
-#. type: YAML Front Matter: license
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr "CC-BY-SA 4.0"
-
 #. type: YAML Front Matter: tags
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "contribuer"
 msgstr "contribuir"
 
 #. type: YAML Front Matter: title
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
 msgstr "¿Cómo contribuir a la traducción de la distribución Linux Fedora?"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:15
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
-"Une distribution est un type de projet de logiciel libre spécifique et "
-"complexe, sur lequel les objectifs et contraintes influent directement sur "
-"la capacité d’action du traducteur.\n"
-"Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas "
-"anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à "
-"disposition une plateforme de traduction.\n"
+"Une distribution est un type de projet de logiciel libre spécifique et complexe, sur lequel les objectifs et contraintes influent directement sur la capacité d’action du traducteur.\n"
+"Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à disposition une plateforme de traduction.\n"
 msgstr ""
-"Una distribución es un tipo concreto y complejo de proyecto de software "
-"libre cuyos objetivos y restricciones impactan directamente en la capacidad "
-"del traductor de actuar.\n"
-"Pero para facilitarle la vida y mejorar la de aquellos que [no hablan "
-"inglés]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora pone a "
-"disposición una plataforma de traducción.\n"
+"Una distribución es un tipo concreto y complejo de proyecto de software libre cuyos objetivos y restricciones impactan directamente en la capacidad del traductor de actuar.\n"
+"Pero para facilitarle la vida y mejorar la de aquellos que [no hablan inglés]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora pone a disposición una plataforma de traducción.\n"
 
 #. type: Title ##
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:16
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
 msgstr "¿Qué es una distribución Linux?"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:20
-#, markdown-text
 msgid ""
 "Une distribution Linux est un ensemble de logiciels, paramétrés de façon "
 "cohérente de façon à répondre à un besoin tout en respectant un ensemble de "
@@ -97,8 +69,6 @@ msgstr ""
 "usuarios y usuarias."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:22
-#, markdown-text
 msgid ""
 "La problématique principale étant : comment puis-je actualiser le "
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
@@ -109,16 +79,14 @@ msgstr ""
 "estos?"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:26
-#, markdown-text
 msgid ""
 "Une distribution contient une quantité très importante de logiciels : plus "
-"de 30 000 pour Fedora "
-"([source](https://src.fedoraproject.org/projects/rpms/*)).  L’immense "
-"majorité de ces logiciels provient d’équipes n’ayant aucun lien direct avec "
-"le projet Fedora, par exemple le navigateur Mozilla Firefox, ou la suite "
-"bureautique LibreOffice.  Une minorité de logiciels est créée spécifiquement "
-"pour le besoin propre du projet Fedora, tel l’installeur Anaconda."
+"de 30 000 pour Fedora ([source](https://src.fedoraproject.org/projects/rpms/"
+"*)).  L’immense majorité de ces logiciels provient d’équipes n’ayant aucun "
+"lien direct avec le projet Fedora, par exemple le navigateur Mozilla "
+"Firefox, ou la suite bureautique LibreOffice.  Une minorité de logiciels est "
+"créée spécifiquement pour le besoin propre du projet Fedora, tel "
+"l’installeur Anaconda."
 msgstr ""
 "Una distribución contiene una cantidad enorme de programas: más de 30 000 en "
 "el caso de Fedora ([fuente](https://src.fedoraproject.org/projects/rpms/*)). "
@@ -129,14 +97,11 @@ msgstr ""
 "como el instalador Anaconda."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:27
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
 msgstr "La distribución Linux Fedora y sus valores"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:32
-#, markdown-text
 msgid ""
 "La distribution Linux Fedora est dite générique, elle vise à répondre à "
 "divers besoins : l’utilisation sur un poste de travail et sur serveur.  Pour "
@@ -154,8 +119,6 @@ msgstr ""
 "dispositivos especializados (Fedora IOT) o en contenedores (Fedora CoreOS)."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:34
-#, markdown-text
 msgid ""
 "On voit ici que rien n’est simple, derrière le concept de « distribution "
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
@@ -166,8 +129,6 @@ msgstr ""
 "distintas para atender a diferentes objetivos."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:36
-#, markdown-text
 msgid ""
 "En plus de ces multiples paramétrages, la distribution Linux Fedora s’impose "
 "les contraintes suivantes : l’utilisation exclusive de logiciels libres, "
@@ -182,51 +143,42 @@ msgstr ""
 "mantener una capa de modificaciones por encima."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:38
-#, markdown-text
 msgid ""
 "Pour plus de détails, je vous recommande la lecture de cette page décrivant "
-"Fedora et ses quatre fondations : "
-"https://docs.fedoraproject.org/en-US/project/"
+"Fedora et ses quatre fondations : https://docs.fedoraproject.org/en-US/"
+"project/"
 msgstr ""
 "Para más detalles, le recomiendo la lectura de esta página que describe "
 "Fedora y sus cuatro principios: https://docs.fedoraproject.org/en-US/project/"
 
 #. type: Title ##
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:39
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
 msgstr "Las ramificaciones del papel de traductor en el proyecto Fedora"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:42
-#, markdown-text
 msgid ""
 "Quand vous vous rendrez sur la plateforme de traduction du projet Fedora "
 "https://translate.fedoraproject.org/projects/ vous ne trouverez qu’une "
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
-"Cuando entra en la plataforma de traducción del proyecto Fedora "
-"https://translate.fedoraproject.org/projects/, encontrará solo una pequeña "
-"parte de todo el software disponible realmente cuando instala Fedora."
+"Cuando entra en la plataforma de traducción del proyecto Fedora https://"
+"translate.fedoraproject.org/projects/, encontrará solo una pequeña parte de "
+"todo el software disponible realmente cuando instala Fedora."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:48
-#, markdown-text
 msgid ""
 "La plateforme de traduction de Fedora contient : * Les logiciels que sa "
-"communauté a créé, par exemple l’installeur anaconda "
-"https://translate.fedoraproject.org/projects/anaconda/ * Les sites internets "
-"du projet Fedora : "
-"https://translate.fedoraproject.org/projects/fedora-websites/ * La "
-"documentation du projet Fedora : "
-"https://translate.fedoraproject.org/projects/fedora-docs-l10n-docs/ (et tous "
-"les autres projets débutants par fedora-docs-l10n)  * Des logiciels dont les "
-"créateurs ont décidé de faire héberger leurs traductions au sein du projet "
-"Fedora : tels pulseaudio "
-"https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus "
-"https://translate.fedoraproject.org/projects/ibus/"
+"communauté a créé, par exemple l’installeur anaconda https://translate."
+"fedoraproject.org/projects/anaconda/ * Les sites internets du projet "
+"Fedora : https://translate.fedoraproject.org/projects/fedora-websites/ * La "
+"documentation du projet Fedora : https://translate.fedoraproject.org/"
+"projects/fedora-docs-l10n-docs/ (et tous les autres projets débutants par "
+"fedora-docs-l10n)  * Des logiciels dont les créateurs ont décidé de faire "
+"héberger leurs traductions au sein du projet Fedora : tels pulseaudio "
+"https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus https://"
+"translate.fedoraproject.org/projects/ibus/"
 msgstr ""
 "La plataforma de traducción de Fedora contiene: * Los programas que su "
 "comunidad ha creado, como el instalador Anaconda https://translate."
@@ -235,30 +187,24 @@ msgstr ""
 "documentación del proyecto Fedora: https://translate.fedoraproject.org/"
 "projects/fedora-docs-l10n-docs/ (y todos los proyectos que inician por "
 "fedora-docs-l10n)  * Programas cuyos creadores han decidido alojar sus "
-"traducciones en el seno del proyecto Fedora, tales como: Pulseaudio "
-"https://translate.fedoraproject.org/projects/pulseaudio/ e IBus "
-"https://translate.fedoraproject.org/projects/ibus/"
+"traducciones en el seno del proyecto Fedora, tales como: Pulseaudio https://"
+"translate.fedoraproject.org/projects/pulseaudio/ e IBus https://translate."
+"fedoraproject.org/projects/ibus/"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:51
-#, markdown-text
 msgid ""
 "Pour tout le reste, il faudra trouver où est hébergé le logiciel et "
-"comprendre comment y contribuer.  Mais cela sera le sujet d’un autre "
-"article."
+"comprendre comment y contribuer.  Mais cela sera le sujet d’un autre article."
 msgstr ""
 "Para el resto, deberá descubrir dónde se hospeda cada programa y cómo puede "
 "contribuir a este. Pero esto será material para otro artículo."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:52
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Conclusion"
 msgstr "Conclusión"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:55
-#, markdown-text
 msgid ""
 "Même si une distribution Linux est un ensemble complexe, y contribuer est "
 "facile.  La seule question à se poser quand on arrive sur une plateforme de "
@@ -269,3 +215,9 @@ msgstr ""
 "esta. La única pregunta que deberá realizarse cuando llega a una plataforma "
 "de traducción consiste en cerciorarse de que entiende lo que ve; en el "
 "proyecto Fedora, siempre se trata del software original, sin intermediarios."
+
+#~ msgid "2020-07-03"
+#~ msgstr "2020.7.3"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY-SA 4.0"
