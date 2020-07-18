@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -48,16 +48,6 @@ msgid "Internationalisation"
 msgstr ""
 "التدويل\n"
 "---\n"
-
-#. type: YAML Front Matter: date
-#, no-wrap
-msgid "2020-06-12"
-msgstr ""
-
-#. type: YAML Front Matter: license
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr ""
 
 #. type: YAML Front Matter: tags
 #, no-wrap

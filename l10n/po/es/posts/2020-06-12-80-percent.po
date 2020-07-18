@@ -3,58 +3,60 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-06-12-80-percent/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: authors
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: YAML Front Matter: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: YAML Front Matter: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: YAML Front Matter: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalización"
 
 #. type: YAML Front Matter: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Internacionalización"
 
 #. type: YAML Front Matter: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "retos"
 
 #. type: YAML Front Matter: tags
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "compartición"
 
 #. type: YAML Front Matter: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "Cuando el 80 % de la humanidad no habla inglés"
 
 #. type: Plain text
 msgid ""
@@ -64,11 +66,16 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Aunque el ecosistema del software libre sea bastante anglófono, admitir "
+"otros idiomas en un programa permite multiplicar por cinco o por diez el "
+"número de usuarios potenciales. Esto supone una complejidad y un costo alto, "
+"aunque único, que al asumirse, salvo que se emplee automatización, permite "
+"un número ilimitado de lenguas."
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Un ecosistema muy anglófono"
 
 #. type: Plain text
 msgid ""
@@ -79,6 +86,13 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"El mundo del software libre y de código abierto es sumamente diverso, y "
+"abarca desde las capas de interacción con el hardware hasta los programas "
+"que utilizamos cotidianamente en nuestros computadores y teléfonos. Todas "
+"estas herramientas existen exclusivamente por y para sus usuarios y "
+"usuarias. Algunos de ellos se interesarán por la herramienta y contribuirán "
+"a esta; otros solo se interesarán en alcanzar sus propios objetivos de la "
+"manera más ágil posible."
 
 #. type: Plain text
 msgid ""
@@ -88,6 +102,11 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"En el mundo del software libre, el inglés es la lengua de trabajo por "
+"omisión, mayormente utilizada de manera escrita. Este funcionamiento es un "
+"estándar de facto, aceptado sin muchas dificultades por lo que se denomina "
+"«la comunidad del software libre», un término genérico que engloba el "
+"conjunto de personas que contribuyen a uno o más programas libres."
 
 #. type: Plain text
 msgid ""
@@ -97,17 +116,24 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Por comodidad, los desarrolladores de software utilizan a menudo el inglés "
+"en vez de su lengua materna. Consecuentemente, ellos rara vez comprenden las "
+"dificultades que implica la traducción (frases cortadas en varios "
+"fragmentos, variables sin nombre, jerga técnica difícil de comprender y "
+"traducir, etc.)."
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Peor aún, estas personas pueden sentirse incómodas por la falta de control "
+"sobre lo que en efecto se muestra al usuario."
 
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Una población mundial escasamente anglófona"
 
 #. type: Plain text
 msgid ""
@@ -117,6 +143,10 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Es muy probable que la lengua materna de los usuarios no sea el inglés. E "
+"invitar a los desarrolladores a utilizar su lengua materna no soluciona el "
+"problema, dado que es muy probable que esta lengua no sea la de los "
+"desarrolladores a cargo de la herramienta."
 
 #. type: Plain text
 msgid ""
@@ -126,6 +156,10 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Independientemente del idioma, los usuarios prefieren utilizar su propia "
+"lengua para alcanzar sus objetivos, puesto que esto aumenta la comodidad de "
+"uso y la eficacia. El poder utilizar su lengua también puede ser un "
+"prerrequisito para emplear el programa, en caso de no dominar el inglés."
 
 #. type: Plain text
 msgid ""
@@ -138,6 +172,14 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"Existen estimaciones pormenorizadas de población por lengua y territorio "
+"provistas por el Consorcio Unicode, o más específicamente, por el CLDR. "
+"[Estas estimaciones indican que un 21 %](https://github.com/unicode-org/cldr/"
+"commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) de los habitantes del planeta hablarían "
+"inglés. No obstante, aquí «hablar» implica situaciones muy diversas; si se "
+"considera a las personas con nivel nativo o que dominan el uso actual, este "
+"porcentaje se reduce al 9 %."
 
 #. type: Plain text
 msgid ""
@@ -149,6 +191,13 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"El desafío de buscar aumentar el número de usuarios consiste de aumentar el "
+"número potencial de contribuidores, quienes darán sus primeros pasos a "
+"través de una corrección de traducción o de una traducción completa, para "
+"pasar a realizar otras actividades más o menos técnicas (comunicación, "
+"asistencia, documentación, pruebas, programación…). Es posible no conocer la "
+"lengua de origen del programa y utilizar otra lengua como apoyo para "
+"realizar una traducción."
 
 #. type: Plain text
 msgid ""
@@ -156,21 +205,26 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Para incrementar el número de usuarios potenciales, es necesario añadir "
+"compatibilidad lingüística. A esto es lo que denominamos "
+"internacionalización."
 
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "La complejidad de la internacionalización"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Para admitir varios idiomas se necesita:"
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"emplear herramientas que ofrezcan las funcionalidades necesarias (marcar el "
+"contenido para traducir, traducirlo y diseminarlo)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -178,6 +232,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"cambiar sus procesos de diseño de software para integrar el trabajo de "
+"traducción (cuando el código se finaliza, debe informarse a las personas que "
+"realizan las traducciones e integrarse su labor)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -185,6 +242,9 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"atender las necesidades vinculadas a la actividad de traducción. Esto "
+"necesita un interés en la programación, los formatos de traducción, las "
+"formas de pluralización, la adaptación de herramientas, etc."
 
 #. type: Plain text
 msgid ""
@@ -193,6 +253,10 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"Y además de la interfaz de usuario, también debemos incluir la interfaz de "
+"línea de órdenes, los sitios web de presentación, los boletines "
+"informativos, la documentación en línea, las páginas de manual, los informes "
+"de novedades por versión…"
 
 #. type: Plain text
 msgid ""
@@ -201,6 +265,10 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"La internacionalización cuesta tiempo y requiere competencias técnicas "
+"avanzadas. Desafortunadamente, algunas herramientas de software no incluyen "
+"ayuda, por lo que el experto deberá valerse por sí mismo o cambiar de "
+"herramienta."
 
 #. type: Plain text
 msgid ""
@@ -212,11 +280,18 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"La buena noticia es que este trabajo solo necesita hacerse una vez para "
+"admitir una cantidad teóricamente ilimitada de lenguas. Es buena noticia "
+"porque existen hoy en día entre 7000 y 9000 lenguas, de las cuales más de "
+"2500 están en riesgo de desaparecer. Si fuera necesario realizar un trabajo "
+"especializado por idioma, pocos serían los desarrolladores dispuestos a "
+"invertir esfuerzos en un idioma con un número reducido de hablantes. Y en "
+"nuestra época, no tener presencia en el mundo digital es peligroso."
 
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "El papel de Languages-in-floss"
 
 #. type: Plain text
 msgid ""
@@ -224,6 +299,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"En este contexto, la iniciativa Languages-in-floss tiene por objeto "
+"compartir con usted nuestras experiencias en terreno al hacerse cargo de "
+"proyectos en francés, árabe, cabilio y occitano."
 
 #. type: Plain text
 msgid ""
@@ -232,3 +310,12 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Sea usted promotor de una lengua o desarrollador de software, descubrirá que "
+"el plurilingüismo es posible en cualquier actividad ligada al software libre "
+"y de código abierto; intentaremos facilitarle la vida en este mundo complejo."
+
+#~ msgid "2020-06-12"
+#~ msgstr "2020.6.12"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY-SA 4.0"

@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
-"PO-Revision-Date: 2020-07-10 22:33+0000\n"
-"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2020-06-12-80-percent/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -42,16 +42,6 @@ msgstr "Regionalização"
 #, no-wrap
 msgid "Internationalisation"
 msgstr "Internacionalização"
-
-#. type: YAML Front Matter: date
-#, no-wrap
-msgid "2020-06-12"
-msgstr "2020-06-12"
-
-#. type: YAML Front Matter: license
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr "CC-BY SA 4.0"
 
 #. type: YAML Front Matter: tags
 #, no-wrap
@@ -141,7 +131,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr "Uma população mundial de língua inglesa"
+msgstr "Uma população mundial escassamente de língua inglesa"
 
 #. type: Plain text
 msgid ""
@@ -317,6 +307,12 @@ msgstr ""
 "Seja você um defensor de um idioma, ou um desenvolvedor, descobrirá que o "
 "multilinguismo é possível em qualquer atividade relacionada a software livre "
 "e de código aberto, tentaremos facilitar sua vida neste mundo complexo."
+
+#~ msgid "2020-06-12"
+#~ msgstr "2020-06-12"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY SA 4.0"
 
 #~ msgid "[\"jibec\", \"butterflyoffire\", \"quenti\"]"
 #~ msgstr "[\"jibec\", \"butterflyoffire\", \"quenti\"]"

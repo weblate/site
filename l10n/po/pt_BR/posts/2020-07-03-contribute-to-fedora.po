@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-11 00:27+0200\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
 "PO-Revision-Date: 2020-07-10 22:33+0000\n"
 "Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
@@ -27,16 +27,6 @@ msgstr "jibec"
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Regionalização"
-
-#. type: YAML Front Matter: date
-#, no-wrap
-msgid "2020-07-03"
-msgstr "2020-07-03"
-
-#. type: YAML Front Matter: license
-#, no-wrap
-msgid "CC-BY SA 4.0"
-msgstr "CC-BY SA 4.0"
 
 #. type: YAML Front Matter: tags
 #, no-wrap
@@ -221,6 +211,12 @@ msgstr ""
 "para ela. A única pergunta a ser feita quando você chega em uma plataforma "
 "de tradução é ter certeza de que entende o que vê lá, no projeto Fedora, "
 "ainda é o software original, sem intermediários."
+
+#~ msgid "2020-07-03"
+#~ msgstr "2020-07-03"
+
+#~ msgid "CC-BY SA 4.0"
+#~ msgstr "CC-BY SA 4.0"
 
 #~ msgid "false"
 #~ msgstr "falso"
