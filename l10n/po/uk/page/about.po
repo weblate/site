@@ -7,19 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-08-09 16:29+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/about/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/page/about.md:1
 #, no-wrap
 msgid "À propos"
-msgstr ""
+msgstr "Про сайт"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:9
@@ -33,6 +37,13 @@ msgid ""
 "Par rebond, nous encourageons toute personne souhaitant traduire ou "
 "permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"За наповнення цього сайта відповідають три учасники: [Jean-Baptiste]({{< "
+"relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) "
+"та [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), які "
+"безпосередньо створюють дописи такими мовами: французькою, окситанською, "
+"арабською та кабильською.\n"
+"Ми будемо раді усім, хто перекладатиме вміст цього сайта або надаватиме "
+"доступ до перекладу рідною мовою.\n"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:11
@@ -41,6 +52,8 @@ msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
+"Завдяки участі у командах перекладачів ми здобули знання зі світу вільного "
+"програмного забезпечення:"
 
 #. type: Bullet: '* '
 #: ./content/fr/page/about.md:14
@@ -49,6 +62,8 @@ msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
+"ми виконали тестування десятків платформ для перекладу, і знаємо, як "
+"керувати і розгортати деяких з цих платформ,"
 
 #. type: Bullet: '* '
 #: ./content/fr/page/about.md:14
@@ -58,6 +73,8 @@ msgid ""
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
 msgstr ""
+"ми дізналися більше про процес розподілу перекладів у програмному "
+"забезпеченні, дистрибутиві (Ubuntu, Fedora…) або екосистемі (Linux, Android…)"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:16
@@ -67,6 +84,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"У цьому контексті, ініціатива «Мови у вільному відкритому програмному "
+"забезпеченні» має на меті поділитися з вами нашим досвідом у царині "
+"підтримки французької, арабської, кабильської та окситанської мов."
 
 #. type: Plain text
 #: ./content/fr/page/about.md:18
@@ -77,6 +97,10 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Незалежно від того, займаєтеся ви просуванням чи збереженням мови, є ви "
+"розробником, ви зрозумієте, що багатомовність можлива в будь-якій "
+"діяльності, пов'язаній із вільним програмним забезпеченням з відкритим "
+"кодом. Ми намагатимемося полегшити ваше життя в цьому складному світі."
 
 #. type: Plain text
 #: ./content/fr/page/about.md:19
@@ -86,3 +110,7 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
 "web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Для спілкування з нами ви можете скористатися каналом **traducteurs** у "
+"мережі jabberfr: [xmpp](xmpp://traducteurs@chat.jabberfr.org), "
+"[інтернет](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr."
+"org)"

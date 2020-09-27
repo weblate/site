@@ -7,37 +7,41 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-08-17 16:29+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-07-03-contribute-to-fedora/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: YAML Front Matter: categories
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Регіоналізація"
 
 #. type: YAML Front Matter: tags
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "contribuer"
-msgstr ""
+msgstr "участь"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
-msgstr ""
+msgstr "Як можна посприяти перекладу дистрибутива Fedora Linux?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:15
@@ -50,12 +54,18 @@ msgid ""
 "anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à "
 "disposition une plateforme de traduction.\n"
 msgstr ""
+"Дистрибутив — це специфічний і складний тип проєкту вільного програмного "
+"забезпечення, на якому цілі та обмеження безпосередньо впливають на роботу "
+"перекладача.\n"
+"Для того, щоб полегшити своє життя та покращити життя тих, [хто не розмовляє "
+"англійською мовою]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora "
+"пропонує платформу для перекладу.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:16
 #, markdown-text, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "Що таке дистрибутив Linux?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:20
@@ -68,6 +78,11 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Дистрибутив Linux — це набір програмного забезпечення, узгоджений для "
+"задоволення певної потреби при дотриманні набору обмежень. Основою проєкту "
+"дистрибутива, такого як проєкт Fedora, є робота інженерів-програмістів, "
+"результатом якої є збирання усього програмного забезпечення для того, щоб "
+"зробити його доступним для користувачів."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:22
@@ -77,6 +92,9 @@ msgid ""
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
 msgstr ""
+"Основна проблема полягає в тому, як можна оновити налаштування всього "
+"програмного забезпечення, полегшивши оновлення того самого програмного "
+"забезпечення?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:26
@@ -90,12 +108,19 @@ msgid ""
 "bureautique LibreOffice.  Une minorité de logiciels est créée spécifiquement "
 "pour le besoin propre du projet Fedora, tel l’installeur Anaconda."
 msgstr ""
+"Дистрибутив містить дуже велику кількість програмного забезпечення: понад 30 "
+"000 пакунків для Fedora ([джерело](https://src.fedoraproject.org/projects/"
+"rpms/*)). Переважна більшість цього програмного забезпечення надходить від "
+"команд, що не мають прямого зв'язку з проектом Fedora, наприклад, браузера "
+"Mozilla Firefox або набору офісних програм LibreOffice. Менша частина "
+"програм створюється спеціально для конкретних потреб проєкту Fedora, "
+"наприклад, програма встановлення Anaconda."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:27
 #, markdown-text, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "Дистрибутив Fedora та його значення"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:32
@@ -109,6 +134,13 @@ msgid ""
 "Server »), sur du matériel embarqué (« Fedora IOT ») ou conteneurisé (« "
 "Fedora CoreOS »)."
 msgstr ""
+"Дистрибутив Fedora Linux є дистрибутивом загального призначення — його "
+"призначено для задоволення різних потреб: використання на робочій станції та "
+"на сервері. Для робочих станцій призначено два варіанти: «Fedora workstation»"
+" та «Fedora Silverblue». Для серверів Fedora можна встановити як операційну "
+"систему, встановлену на стандартному апаратному забезпеченні («Fedora "
+"Server»), на вбудованих апаратних системах («Fedora IoT») або на контейнерах "
+"(«Fedora CoreOS»)."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:34
@@ -118,6 +150,9 @@ msgid ""
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
 msgstr ""
+"Отже, поняття «дистрибутив Linux» приховує за собою доволі складну "
+"конструкцію — однакові набори програмного забезпечення можна налаштувати по-"
+"різному для досягнення різних цілей."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:36
@@ -129,6 +164,11 @@ msgid ""
 "fréquentes, avoir une contribution directe aux logiciels plutôt que de "
 "concevoir et maintenir une surcouche de modifications."
 msgstr ""
+"На додаток до цих кількох налаштувань дистрибутив Fedora Linux накладає такі "
+"обмеження: використання лише вільного програмного забезпечення, використання "
+"в основному передових розробок шляхом частого випуску, безпосередній внесок "
+"у програмне забезпечення, а не розробка і підтримання власних модифікацій "
+"програмного забезпечення."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:38
@@ -138,12 +178,15 @@ msgid ""
 "Fedora et ses quatre fondations : "
 "https://docs.fedoraproject.org/en-US/project/"
 msgstr ""
+"Для отримання докладніших відомостей рекомендуємо прочитати цю сторінку з "
+"описом Fedora та її чотирьох основ: https://docs.fedoraproject.org/en-US/"
+"project/"
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:39
 #, markdown-text, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "Наслідок для ролі перекладача у проекті Fedora"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:42
@@ -154,6 +197,9 @@ msgid ""
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
+"Перейшовши на сторінку https://translate.fedoraproject.org/projects/ "
+"платформи перекладів проєктів Fedora, ви знайдете лише невелику частину "
+"всього наявного при встановленні Fedora програмного забезпечення."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:48
@@ -172,6 +218,16 @@ msgid ""
 "https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus "
 "https://translate.fedoraproject.org/projects/ibus/"
 msgstr ""
+"Платформа перекладу Fedora містить такі компоненти: * Програмне "
+"забезпечення, яке створила спільнота дистрибутива, наприклад, програма для "
+"встановлення anaconda https://translate.fedoraproject.org/projects/anaconda/ "
+"* Вебсайти проєкту Fedora: https://translate.fedoraproject.org/projects/"
+"fedora-websites/ * Документація до проєкту Fedora: https://translate."
+"fedoraproject.org/projects/fedora-docs-l10n-docs/ (та всі інші проекти, що "
+"починаються з fedora-docs- l10n) * Програмне забезпечення, творці якого "
+"вирішили розмістити свої переклади у межах проєкту Fedora: pulseaudio "
+"https://translate.fedoraproject.org/projects/pulseaudio/ або ibus "
+"https://translate.fedoraproject.org/projects/ibus/"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:51
@@ -181,12 +237,15 @@ msgid ""
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre "
 "article."
 msgstr ""
+"Для всього іншого вам доведеться знайти місце розміщення програмного "
+"забезпечення та зрозуміти, як зробити свій внесок. Але це буде предметом "
+"іншого допису."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:52
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Висновок"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:55
@@ -197,3 +256,7 @@ msgid ""
 "traduction, c’est de s’assurer de comprendre ce qu’on y voit, dans le projet "
 "Fedora, c’est toujours le logiciel d’origine, sans intermédiaire."
 msgstr ""
+"Незважаючи на те, що дистрибутив Linux — це складне ціле, сприяти перекладу "
+"легко. Єдине питання, яке потрібно задати собі, коли ви сідаєте за переклад, "
+"— це переконатися, що ви розумієте, з чим ви маєте справу. У проєкті Fedora "
+"це оригінальне програмне забезпечення, без посередників."
