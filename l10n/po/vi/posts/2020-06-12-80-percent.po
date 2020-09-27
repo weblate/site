@@ -1,0 +1,282 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: authors
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "jibec"
+msgstr ""
+
+#. type: YAML Front Matter: authors
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "butterflyoffire"
+msgstr ""
+
+#. type: YAML Front Matter: authors
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "quenti"
+msgstr ""
+
+#. type: YAML Front Matter: categories
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "Régionalisation"
+msgstr ""
+
+#. type: YAML Front Matter: categories
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "Internationalisation"
+msgstr ""
+
+#. type: YAML Front Matter: tags
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "enjeux"
+msgstr ""
+
+#. type: YAML Front Matter: tags
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "partage"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#, no-wrap
+msgid "Quand 80% de l’humanité ne parle pas anglais"
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:19
+#, markdown-text
+msgid ""
+"Alors que l’écosystème du logiciel libre est très anglophone, prendre en "
+"charge plusieurs langues dans un logiciel permet de multiplier par 5 ou par "
+"10 le nombre d’utilisateur·rice·s potentiels.  Cela représente une "
+"complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
+"d’automatisation, autorise un nombre illimité de langues."
+msgstr ""
+
+#. type: Title ##
+#: ./content/fr/posts/2020-06-12-80-percent.md:20
+#, markdown-text, no-wrap
+msgid "Un écosystème très anglophone"
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:25
+#, markdown-text
+msgid ""
+"Le monde du logiciel libre et open-source est très divers, allant des "
+"couches d’interactions avec le matériel jusqu’aux logiciels que nous "
+"utilisons quotidiennement sur nos ordinateurs et téléphones.  Tous ces "
+"outils n’existent que par et pour ses utilisateurs et utilisatrices.  "
+"Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
+"voudront juste atteindre leur but le plus rapidement possible."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:28
+#, markdown-text
+msgid ""
+"Dans le monde du logiciel libre, l’anglais est la langue de travail par "
+"défaut, et l’écrit y est le canal le plus utilisé.  Ce fonctionnement est un "
+"standard de fait, et accepté sans grande difficulté par ce qu’on appelle la "
+"communauté du logiciel libre, terme générique qui englobe l’ensemble des "
+"personnes contribuant à un ou plusieurs logiciels libres."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:31
+#, markdown-text
+msgid ""
+"Par confort, les personnes créant des logiciels utilisent souvent l’anglais "
+"plutôt que leur langue maternelle.  En conséquence, ils comprennent rarement "
+"les difficultés rencontrées lors de la traduction (phrases découpées en "
+"plusieurs fragments, variables non nommées, jargon technique intraduisible, "
+"etc.)."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:33
+#, markdown-text
+msgid ""
+"Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
+"contrôle sur ce qui est effectivement affiché à l’utilisateur."
+msgstr ""
+
+#. type: Title ##
+#: ./content/fr/posts/2020-06-12-80-percent.md:34
+#, markdown-text, no-wrap
+msgid "Une population mondiale peu anglophone"
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:38
+#, markdown-text
+msgid ""
+"Il y a de grandes chances pour que les utilisateurs et utilisatrices aient "
+"une langue maternelle qui ne soit pas l’anglais.  Et inciter les "
+"développeurs à utiliser leur langue maternelle ne résous pas le problème, "
+"car il y a toutes les chances pour que cette langue maternelle ne soit pas "
+"celle des développeurs en charge de l’outil."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:41
+#, markdown-text
+msgid ""
+"Quelle que soit leur langue, les utilisateurs et utilisatrices préfèreront "
+"utiliser leur propre langue pour atteindre leur but, car cela augmente leur "
+"confort d’utilisation et leur efficacité.  Utiliser sa langue peut également "
+"être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
+"l’anglais."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:45
+#, markdown-text
+msgid ""
+"Dans le détail, il existe des estimations de population par langue et "
+"territoire fournies par le consortium Unicode, et plus particulièrement le "
+"CLDR.  [Ces estimations indiquent que 21 "
+"%](https://github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt) "
+"des habitant·e·s de la planète parleraient anglais.  Mais ici, parler "
+"englobe des situations très diverses, si on considère les personnes ayant un "
+"niveau natif ou courant, nous descendons à 9 %."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:48
+#, markdown-text
+msgid ""
+"L’enjeu en cherchant à augmenter le nombre d’utilisateurs est d’augmenter le "
+"nombre potentiel de contributeurs et contributrices, qui viendront faire "
+"leurs premiers pas par une correction de traduction ou une traduction "
+"complète, puis qui peuvent continuer sur des activités plus ou moins "
+"techniques (communication, assistance, documentation, tests, codage...).  Il "
+"est possible de ne pas connaître la langue source du logiciel, mais "
+"d’utiliser une autre langue comme pivot pour réaliser une traduction."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:51
+#, markdown-text
+msgid ""
+"Pour pouvoir démultiplier les utilisateurs et utilisatrices potentiels, il "
+"faut ajouter le support linguistique.  C’est ce qu’on appelle "
+"l’internationalisation."
+msgstr ""
+
+#. type: Title ##
+#: ./content/fr/posts/2020-06-12-80-percent.md:52
+#, markdown-text, no-wrap
+msgid "La complexité de l’internationalisation"
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:55
+#, markdown-text
+msgid "Prendre en charge de multiples langues nécessite :"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#, markdown-text
+msgid ""
+"d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
+"les contenus à traduire, les traduire et les diffuser)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#, markdown-text
+msgid ""
+"de changer ses processus de conception logicielle pour intégrer le travail "
+"de traduction (quand le code est terminé, il faut informer les personnes "
+"réalisant les traduction et intégrer leurs travaux)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./content/fr/posts/2020-06-12-80-percent.md:60
+#, markdown-text
+msgid ""
+"de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
+"s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
+"l’outillage adapté, etc."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:62
+#, markdown-text
+msgid ""
+"Et au-delà de l’interface utilisateur, il faut également inclure les "
+"interface en ligne de commande, les sites web de présentation, des lettres "
+"d’information, la documentation en ligne, les pages man, les notes de "
+"version..."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:65
+#, markdown-text
+msgid ""
+"Internationaliser coûte du temps et nécessite des compétences techniques "
+"avancées.  Malheureusement, certains outils utilisés par les logiciels "
+"n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
+"d’outil."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:70
+#, markdown-text
+msgid ""
+"La bonne nouvelle est que ce travail n’est à mener qu’une seule fois pour un "
+"nombre théoriquement illimité de langues.  C’est une bonne nouvelle, car il "
+"existe aujourd’hui entre 7000 et 9000 langues, dont près de 2500 sont en "
+"risque de disparition.  S’il fallait mener un travail dédié par langue, rare "
+"seraient les développeurs et développeuses qui accepteraient de dépenser "
+"d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
+"notre époque, ne pas exister sur les outils numériques est dangereux."
+msgstr ""
+
+#. type: Title ##
+#: ./content/fr/posts/2020-06-12-80-percent.md:71
+#, markdown-text, no-wrap
+msgid "Le rôle de Languages-in-floss"
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:74
+#, markdown-text
+msgid ""
+"Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
+"expériences de terrain pour la prise en charge du français, de l’arabe, du "
+"kabyle et de l’occitan."
+msgstr ""
+
+#. type: Plain text
+#: ./content/fr/posts/2020-06-12-80-percent.md:75
+#, markdown-text
+msgid ""
+"Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
+"développeur, vous découvrirez que le multilinguisme est possible dans toute "
+"activité liée au logiciel libre et open-source, nous allons essayer de vous "
+"faciliter la vie dans ce monde complexe."
+msgstr ""
