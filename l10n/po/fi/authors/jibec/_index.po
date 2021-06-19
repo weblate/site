@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-27 09:40+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/authorsjibec_index/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:7
 #, markdown-text
 msgid "Mes contributions :"
-msgstr ""
+msgstr "Minun panokseni :"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -29,6 +32,9 @@ msgid ""
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
 "migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
+"Linux Fedora -jakelun siirtyminen käännösalustalle "
+"[Weblate](https://translate.fedoraproject.org/stats/) "
+"([siirtymäsuunnitelma](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -38,6 +44,9 @@ msgid ""
 "documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
 "de la distribution Linux Fedora"
 msgstr ""
+"Fedora Linux [-jakeludokumentaation "
+"kansainvälistyminen](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-"
+"antora-localization)"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -47,21 +56,24 @@ msgid ""
 "traductions](https://pagure.io/fedora-localization-statistics) de la "
 "distribution Linux fedora"
 msgstr ""
+"Tilastojen luominen Fedora Linux [-jakelun käännösten "
+"edistymisestä](https://pagure.io/fedora-localization-statistics)"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
 #, markdown-text
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
 msgstr ""
+"Verkkosivuston luominen [Kielet FLOSS:ssa](https://languages-in-floss.eu)"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:14
 #, markdown-text
 msgid "Autre éléments :"
-msgstr ""
+msgstr "Muut elementit:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:15
 #, markdown-text
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
-msgstr ""
+msgstr "[Minun bloggini](https://jibecfed.fedorapeople.org/blog-hugo/)"

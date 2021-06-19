@@ -7,61 +7,66 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-27 09:40+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-06-12-80-percent/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: YAML Front Matter: categories
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Alueellistaminen"
 
 #. type: YAML Front Matter: categories
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Kansainvälistyminen"
 
 #. type: YAML Front Matter: tags
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "panokset"
 
 #. type: YAML Front Matter: tags
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "jako"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/posts/2020-06-12-80-percent.md:1
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr ""
+"Kun ehkä noin kahdeksan kymmentä prosenttia maailman väestöstä ei puhu "
+"englantia"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:19
@@ -73,12 +78,18 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Vapaiden ohjelmistojen ekosysteemi on nykyisin enimmäkseen englanninkielinen "
+"ja syystäkin. Usean ohjelmistoon liittyvän kielen tukeminen voi kertoa "
+"potentiaalisten käyttäjien määrällä 5 tai jopa enemmän. Tämä edustaa suurta, "
+"mutta ainutlaatuista monimutkaisuutta ja kustannuksia, jotka investoinnin "
+"jälkeen ja automatisoituna mahdollistavat tuen rajoittamattoman määrän "
+"kieliä."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-06-12-80-percent.md:20
 #, markdown-text, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Ekosysteemi enimmäkseen englanninkielinen"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:25
@@ -91,6 +102,11 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"Vapaan Ohjelmiston ja Avoimen Lähdekoodin maailmat ovat hyvin monipuolisia, "
+"aina vuorovaikutuksesta laitteiston kanssa tietokoneisiin ja matkapuhelimiin "
+"päivittäin käyttämiimme ohjelmistoihin. Kaikki nämä työkalut ovat olemassa "
+"vain sen käyttäjille. Jotkut ovat kiinnostuneita työkalusta ja auttavat "
+"sitä, toiset haluavat vain saavuttaa tavoitteensa mahdollisimman nopeasti."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:28
@@ -102,6 +118,11 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"Vapaiden ohjelmistojen maailmassa englanti on tosiasiallisesti työkieli, ja "
+"kirjoittaminen on sen yleisimmin käytetty kanava. Tämä tilanne on kuin "
+"standardi, ja niin kutsuttu vapaiden ohjelmistojen yhteisö hyväksyy sen "
+"ilman suurempia vaikeuksia, yleinen termi, joka kattaa kaikki ihmiset, jotka "
+"osallistuvat yhteen tai useampaan vapaaseen ohjelmistoon."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:31
@@ -113,6 +134,10 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Ohjelmiston luojien on helppo käyttää englantia äidinkielensä sijaan. Tämän "
+"seurauksena he ymmärtävät harvoin käännöksen aikana kohdatut vaikeudet ("
+"lauseet, jotka on jaettu useaan osaan, nimeämättömät muuttujat, "
+"käännettämätön tekninen ammattikieltä jne.)."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:33
@@ -121,12 +146,14 @@ msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Jotkut henkilöt saatavat kokea epämiellyttäväksi hallinnan puute näyttöön "
+"näytettävistä tiedoista."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-06-12-80-percent.md:34
 #, markdown-text, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Kohtuullisesti englanninkielinen maailman väestö"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:38
@@ -138,6 +165,9 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Kehittäjien kannustaminen käyttämään äidinkieltään, kun se ei ole englantia, "
+"ei ole vaihtoehto, koska suurin osa IT-työkaluista vastaavista kehittäjistä "
+"ympäri maailmaa puhuu juuri englantia."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:41
@@ -149,6 +179,9 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Ihmisten tulisi mieluummin käyttää äidinkieltään myös silloin, kun se ei ole "
+"englantia, tavoitteen saavuttamiseksi, suorituskyvyn ja tehokkuuden "
+"lisäämiseksi. tämä voi olla edellytys niille, jotka eivät puhu englantia."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:45
@@ -162,6 +195,13 @@ msgid ""
 "englobe des situations très diverses, si on considère les personnes ayant un "
 "niveau natif ou courant, nous descendons à 9 %."
 msgstr ""
+"CLDR- ja Unicode-konsortiot julkaisevat väestöarvioita kielen ja alueen "
+"mukaan. [Viimeksi mainitun mukaan vuonna [] olisi ollut 21 %](https://github."
+"com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) ihmisiä ympäri maailmaa, jotka puhuvat "
+"englantia. Puhuminen on ymmärrettävä laajassa merkityksessä. Yhä näiden "
+"organisaatioiden mukaan, heitä olisi yhdeksän prosenttia, kun otetaan "
+"huomioon vain ihmiset, joilla on syntyperäinen tai sujuva englanti."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:48
@@ -175,6 +215,11 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"Haasteena käyttäjien lukumäärän kasvattamisessa on lisätä mahdollista "
+"osallistujien määrää, jotka ottavat ensimmäiset askeleensa käännöksen "
+"korjauksella tai täydellisellä käännöksellä ja jotka voivat jatkaa enemmän "
+"tai vähemmän teknisiä toimintoja (viestintä, apu, dokumentointi , testit, "
+"koodaus ...)."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:51
@@ -184,18 +229,20 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Käyttäjien määrän lisäämiseksi kielellisen tuen on oltava olemassa. Tätä "
+"kutsutaan kansainvälistymiseksi."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-06-12-80-percent.md:52
 #, markdown-text, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "Kansainvälistymisen monimutkaisuus"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:55
 #, markdown-text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Useiden kielten tukeminen vaatii:"
 
 #. type: Bullet: '* '
 #: ./content/fr/posts/2020-06-12-80-percent.md:60
@@ -204,6 +251,8 @@ msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"käyttää työkaluja, jotka tarjoavat tarvittavat toiminnot (merkitse "
+"käännettävä sisältö, käännä ja jaa ne)"
 
 #. type: Bullet: '* '
 #: ./content/fr/posts/2020-06-12-80-percent.md:60
@@ -213,6 +262,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"muuta ohjelmistojen suunnitteluprosesseja käännöstyön integroimiseksi (kun "
+"koodi on valmis, sinun on ilmoitettava siitä käännösten tekeville ihmisille "
+"ja integroitava heidän työnsä)"
 
 #. type: Bullet: '* '
 #: ./content/fr/posts/2020-06-12-80-percent.md:60
@@ -222,6 +274,8 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"vastaamaan käännösliiketoiminnan tarpeisiin. Tämä edellyttää huomiota "
+"kodifikaatioihin, käännösmuotoihin, monikkoihin, sopiviin työkaluihin jne."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:62
@@ -232,6 +286,9 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"Käyttöliittymän lisäksi sinun tulisi myös sisällyttää komentoriviliittymät, "
+"yleiskatsaus verkkosivustot, uutiskirjeet, online-ohjeet, man-sivut, "
+"julkaisutiedot ...."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:65
@@ -242,6 +299,10 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"Kansainvälistyminen on aikaa vievä ja vaatii edistyneitä teknisiä taitoja. "
+"Valitettavasti jotkut ohjelmistojen käyttämät työkalut eivät tarjoa mitään "
+"apua, asiantuntijalle, joka joutuu puolustamaan itseään tai vaihtamaan "
+"työkaluja."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:70
@@ -255,12 +316,17 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"Tämä työ on tehtävä vain kerran rajattomalle määrälle kieliä. Tämä on hyvä "
+"uutinen, koska nykyään on 7000–9000 kieltä, joista lähes 2500 on "
+"sukupuuttoon vaarassa. Jos joudumme tekemään omistettua työtä kieltä kohden, "
+"harvat kehittäjät olisivat valmiita käyttämään energiaa kielelle, jolla on "
+"merkityksetön määrä puhujia."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-06-12-80-percent.md:71
 #, markdown-text, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "Languages-in-floss:n rooli"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:74
@@ -270,6 +336,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"Tässä yhteydessä aloitteen Languages-in-floss tarkoituksena on jakaa "
+"kentällä kokemuksemme kanssasi näiden kielten tukemisessa: ranska, "
+"oksitaani, kabyle ja arabia."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-06-12-80-percent.md:75
@@ -280,3 +349,7 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Olitpa kielen edistäjä tai puolustaja, saat huomata, että monikielisyys on "
+"mahdollista kaikessa toiminnassa, joka liittyy vapaan ohjelmistoon ja "
+"avoimeen lähdekoodiin, yritämme helpottaa elämääsi tässä monimutkaisessa "
+"maailmassa."

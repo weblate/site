@@ -7,37 +7,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-27 09:40+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-07-03-contribute-to-fedora/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: YAML Front Matter: categories
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Alueellistaminen"
 
 #. type: YAML Front Matter: tags
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "contribuer"
-msgstr ""
+msgstr "osallistua"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
-msgstr ""
+msgstr "Kuinka osallistua Linux Fedora -jakelun kääntämiseen?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:15
@@ -50,12 +53,17 @@ msgid ""
 "anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à "
 "disposition une plateforme de traduction.\n"
 msgstr ""
+"Jakelu on erityistyyppinen ja monimutkainen vapaa ohjelmisto -hanke, jonka "
+"tavoitteet ja rajoitukset vaikuttavat suoraan kääntäjän toimintakykyyn.\n"
+"Elämäsi helpottamiseksi ja niiden ihmisten [jotka eivät puhu englantia]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}) parantamiseksi, Fedora tarjoaa "
+"käännösalustan.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:16
 #, markdown-text, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "Mikä on Linux-jakelu?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:20
@@ -68,6 +76,10 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Linux-jakelu on joukko ohjelmistoja, jotka on konfiguroitu johdonmukaisella "
+"tavalla vastaamaan tarpeita samalla kun otetaan huomioon joukko rajoituksia. "
+"Jakeluprojektin, kuten Fedora-projektin, ydin on ohjelmistotuotantotoiminta, "
+"joka kokoaa kaikki ohjelmistot saataville käyttäjien saataville."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:22
@@ -77,6 +89,8 @@ msgid ""
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
 msgstr ""
+"Pulma ratkettavana on seuraava: Kuinka voin päivittää kaikkien ohjelmistoni "
+"asetukset helpottaen samalla kyseisen ohjelmiston päivittämistä?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:26
@@ -90,12 +104,18 @@ msgid ""
 "bureautique LibreOffice.  Une minorité de logiciels est créée spécifiquement "
 "pour le besoin propre du projet Fedora, tel l’installeur Anaconda."
 msgstr ""
+"Jakelu sisältää huomattavan määrän ohjelmistoja: yli 80 000 Fedoralle  "
+"([lähde](https://src.fedoraproject.org/projects/rpms/*)). Suurin osa "
+"ohjelmistosta tulee tiimeiltä, joilla ei ole suoraa yhteyttä Fedora-"
+"projektiin, esimerkiksi Mozilla Firefox -selain tai LibreOffice-"
+"toimistopaketti. Vähemmistö ohjelmistoista on luotu erityisesti Fedora-"
+"projektin erityistarpeisiin, kuten Anaconda-asennusohjelma."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:27
 #, markdown-text, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "Linux Fedora -jakelu ja sen arvot"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:32
@@ -109,6 +129,12 @@ msgid ""
 "Server »), sur du matériel embarqué (« Fedora IOT ») ou conteneurisé (« "
 "Fedora CoreOS »)."
 msgstr ""
+"Linux Fedora -jakelua kutsutaan yleiseksi, ja sen tarkoituksena on täyttää "
+"erilaiset tarpeet: käyttö työasemassa ja palvelimella. Työasemia varten "
+"esitetyt kaksi mahdollisuutta ovat \"Fedora-työasema\" ja \"Fedora "
+"Silverblue\" -versiot. Palvelimia varten Fedora voidaan asentaa "
+"käyttöjärjestelmänä, joka on asennettu vakiolaitteistoon (\"Fedora Server\")"
+", sisäiseen (\"Fedora IOT\") tai konttilaitteistoon (\"Fedora CoreOS\")."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:34
@@ -118,6 +144,9 @@ msgid ""
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
 msgstr ""
+"Mikään ei ole yksinkertaista Linux-jakelun käsitteen takana; sama "
+"ohjelmistosarja voidaan konfiguroida eri tavoin eri tavoitteiden "
+"saavuttamiseksi."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:36
@@ -129,6 +158,10 @@ msgid ""
 "fréquentes, avoir une contribution directe aux logiciels plutôt que de "
 "concevoir et maintenir une surcouche de modifications."
 msgstr ""
+"Näiden useiden asetusten lisäksi Fedora Linux -jakelussa asetetaan seuraavia "
+"rajoituksia: ilmaisten ohjelmistojen yksinomainen käyttö, olla kehityksen "
+"eturintamassa tekemällä usein julkaisuja, osallistua suoraan ohjelmistoihin "
+"sen sijaan, että suunnitellaan ja ylläpidetään peittokuvaa muutoksista."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:38
@@ -138,12 +171,14 @@ msgid ""
 "Fedora et ses quatre fondations : "
 "https://docs.fedoraproject.org/en-US/project/"
 msgstr ""
+"Tietoa Fedorasta ja sen neljästä perustuksen arvosta: https://docs."
+"fedoraproject.org/en-US/project/"
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:39
 #, markdown-text, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "Seuraukset kääntäjän rooliin Fedora-hankkeessa"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:42
@@ -154,6 +189,9 @@ msgid ""
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
+"Kun siirryt Fedora-hankkeen käännösalustalle https://translate.fedoraproject."
+"org/projects/, löydät vain pienen osan kaikista ohjelmistoista, jotka ovat "
+"käytettävissä, Fedora-asennuksen aikana."
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:48
@@ -172,6 +210,15 @@ msgid ""
 "https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus "
 "https://translate.fedoraproject.org/projects/ibus/"
 msgstr ""
+"Fedoran käännösalusta sisältää: * Yhteisön luoman ohjelmiston, esimerkiksi "
+"anacondan asennusohjelman https://translate.fedoraproject.org/projects/"
+"anaconda/ * Fedora-projektin verkkosivustot:  https://translate.fedoraproject"
+".org/projects/fedora-websites/ *Fedora-projektidokumentaatio: "
+"https://translate.fedoraproject.org/projects/fedora-docs-l10n-docs/ (ja "
+"kaikki muut fedora-docs- l10n:sta alkavat projektit) * Ohjelmistot, joiden "
+"luojat ovat päättäneet isännöimään käännöksiä Fedora-hankkeessa: tällainen "
+"pulseaudio https://translate.fedoraproject.org/projects/pulseaudio/ tai ibus "
+"https://translate.fedoraproject.org/projects/ibus/"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:51
@@ -181,12 +228,14 @@ msgid ""
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre "
 "article."
 msgstr ""
+"Kaiken muun suhteen sinun on löydettävä ohjelmiston isännöintikohde ja "
+"ymmärrettävä, miten voit osallistua. Mutta siitä on toisen artikkelin aihe."
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:52
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Yhteenveto"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:55
@@ -197,3 +246,7 @@ msgid ""
 "traduction, c’est de s’assurer de comprendre ce qu’on y voit, dans le projet "
 "Fedora, c’est toujours le logiciel d’origine, sans intermédiaire."
 msgstr ""
+"Vaikka Linux-jakelu on monimutkainen kokonaisuus, siihen osallistuminen on "
+"helppoa. Ainoa kysymys, joka sinun tulee kysyä itseltäsi, kun laskeudut "
+"käännösalustalle, on varmistaa, että ymmärrät mitä näet siellä, Fedora-"
+"projektissa, se on edelleen alkuperäinen ohjelmisto ilman välikäsiä."

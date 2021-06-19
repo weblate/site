@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-27 09:40+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/about/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/page/about.md:1
 #, no-wrap
 msgid "À propos"
-msgstr ""
+msgstr "Tästä"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:9
@@ -33,6 +36,11 @@ msgid ""
 "Par rebond, nous encourageons toute personne souhaitant traduire ou "
 "permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"Olemme kolme avustajaa, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
+"[Quenti]({{< relref \"/authors/quenti\" >}}) ja [ButterFlyOfFire]({{< relref "
+"\"/authors/butterflyoffire\" >}}), jotka asioivat suoraan seuraavilla "
+"kielillä: ranska, oksitaani, kabyle ja arabia. Kannustamme yleensä kaikkia, "
+"jotka haluavat kääntää tai sallia sisällön kääntämisen äidinkielelleen.\n"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:11
@@ -41,6 +49,8 @@ msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
+"Kääntäjinä toimimisen avulla olemme ymmärtäneet ilmaisten ohjelmistojen "
+"maailman:"
 
 #. type: Bullet: '* '
 #: ./content/fr/page/about.md:14
@@ -49,6 +59,8 @@ msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
+"olemme testanneet kymmeniä käännösalustoja; ja pystymme hallinnoimaan ja "
+"isännöimään joitain niistä,"
 
 #. type: Bullet: '* '
 #: ./content/fr/page/about.md:14
@@ -58,6 +70,8 @@ msgid ""
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
 msgstr ""
+"tiedämme ohjelmistokäännösten ja jakeluprosessin (Ubuntu, Fedora) tai "
+"ekosysteemin (Linux, Android)"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:16
@@ -67,6 +81,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"Tässä yhteydessä aloitteen Languages-in-floss tarkoituksena on jakaa "
+"kentällä kokemuksemme kanssasi näiden kielten tukemisessa: ranska, "
+"oksitaani, kabyle ja arabia."
 
 #. type: Plain text
 #: ./content/fr/page/about.md:18
@@ -77,6 +94,10 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Olitpa kielen edistäjä tai puolustaja, saat huomata, että monikielisyys on "
+"mahdollista kaikessa toiminnassa, joka liittyy vapaan ohjelmistoon ja "
+"avoimeen lähdekoodiin, yritämme helpottaa elämääsi tässä monimutkaisessa "
+"maailmassa."
 
 #. type: Plain text
 #: ./content/fr/page/about.md:19
@@ -86,3 +107,6 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
 "web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Liittyäksesi meihin, voit käyttää jabberfr-verkon **kääntäjien** huonetta: "
+"[xmpp-linkki](xmpp://traducteurs@chat.jabberfr.org), [verkko-"
+"linkki](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
